@@ -1,0 +1,3766 @@
+{
+  "subjects": {
+    "9th": [
+      {
+        "id": 1,
+        "name": "Biology",
+        "units": [ 
+        {
+          "id": 101,
+          "title": "Chapter 1: The Science of Biology",
+          "exercises": [
+            {"id": 10101, "title": "1.1 Biology and its Branches"},
+            {"id": 10102, "title": "1.2 Relation of Biology with Other Sciences"},
+            {"id": 10103, "title": "1.3 Careers in Biology"},
+            {"id": 10104, "title": "1.4 Quranic Instructions to Reveal the Study of Life"},
+            {"id": 10105, "title": "1.5 Science as a Collaborative Field"},
+            {"id": 10106, "title": "1.6 Scientific Method"},
+            {"id": 10107, "title": "1.7 Theory and Law/Principle"},
+            {"id": 10108, "title": "1.8 Malaria - An Example of Biological Method"}
+          ]
+        },
+        {
+          "id": 102,
+          "title": "Chapter 2: Biodiversity",
+          "exercises": [
+            {"id": 10201, "title": "2.1 Biodiversity"},
+            {"id": 10202, "title": "2.2 Classification"},
+            {"id": 10203, "title": "2.3 Taxonomic Ranks"},
+            {"id": 10204, "title": "2.4 History of Classification"},
+            {"id": 10205, "title": "2.5 Domains of Living Organisms"},
+            {"id": 10206, "title": "2.6 Classification of Domain Eukarya"},
+            {"id": 10207, "title": "2.7 Status of Virus in Classification"},
+            {"id": 10208, "title": "2.8 Binomial Nomenclature"}
+          ]
+        },
+        {
+          "id": 103,
+          "title": "Chapter 3: The Cell",
+          "exercises": [
+            {"id": 10301, "title": "3.1 Cell"},
+            {"id": 10302, "title": "3.2 Structure of Cell"},
+            {"id": 10303, "title": "3.3 Cell wall"},
+            {"id": 10304, "title": "3.4 Cell membrane"},
+            {"id": 10305, "title": "3.5 Cytoplasm"},
+            {"id": 10306, "title": "3.6 Nucleus"},
+            {"id": 10307, "title": "3.7 Cytoskeleton"},
+            {"id": 10308, "title": "3.8 Ribosome"},
+            {"id": 10309, "title": "3.9 Endoplasmic reticulum"},
+            {"id": 10310, "title": "3.10 Golgi apparatus"},
+            {"id": 10311, "title": "3.11 Lysosomes"},
+            {"id": 10312, "title": "3.12 Mitochondria"},
+            {"id": 10313, "title": "3.13 Plastids"},
+            {"id": 10314, "title": "3.14 Vacuoles"},
+            {"id": 10315, "title": "3.15 Centrioles"},
+            {"id": 10316, "title": "3.16 Structural Advantages of Plant and Animal Cells"},
+            {"id": 10317, "title": "3.17 Cell Specialization"},
+            {"id": 10318, "title": "3.18 Stem Cells"}
+          ]
+        },
+        {
+          "id": 104,
+          "title": "Chapter 4: Cell Cycle",
+          "exercises": [
+            {"id": 10401, "title": "4.1 Cell Cycle"},
+            {"id": 10402, "title": "4.2 Mitosis"},
+            {"id": 10403, "title": "4.3 Meiosis"},
+            {"id": 10404, "title": "4.4 Comparison between Meiosis and Mitosis"}
+          ]
+        },
+        {
+          "id": 105,
+          "title": "Chapter 5: Tissues, Organs, and Organ Systems",
+          "exercises": [
+            {"id": 10501, "title": "5.1 Levels of Organization"},
+            {"id": 10502, "title": "5.2 Organs and Organ Systems in Plants"},
+            {"id": 10503, "title": "5.3 Organs and Organ Systems in Humans"},
+            {"id": 10504, "title": "5.4 Homeostasis"}
+          ]
+        },
+        {
+          "id": 106,
+          "title": "Chapter 6: Biomolecules",
+          "exercises": [
+            {"id": 10601, "title": "6.1 Biomolecules"},
+            {"id": 10602, "title": "6.2 Carbohydrates"},
+            {"id": 10603, "title": "6.3 Proteins"},
+            {"id": 10604, "title": "6.4 Lipids"},
+            {"id": 10605, "title": "6.5 Nucleic Acids"},
+            {"id": 10606, "title": "6.6 The Working of DNA and RNA"}
+          ]
+        },
+        {
+          "id": 107,
+          "title": "Chapter 7: Enzymes",
+          "exercises": [
+            {"id": 10701, "title": "7.1 Metabolism"},
+            {"id": 10702, "title": "7.2 Enzymes"},
+            {"id": 10703, "title": "7.3 Mechanism of Enzyme Action"},
+            {"id": 10704, "title": "7.4 Factors that Affect the Activity of Enzymes"},
+            {"id": 10705, "title": "7.5 Enzyme Inhibition"}
+          ]
+        },
+        {
+          "id": 108,
+          "title": "Chapter 8: Bioenergetics",
+          "exercises": [
+            {"id": 10801, "title": "8.1 ATP: The Cell's Energy Currency"},
+            {"id": 10802, "title": "8.2 Photosynthesis"},
+            {"id": 10803, "title": "8.3 Cellular Respiration"}
+          ]
+        },
+        {
+          "id": 109,
+          "title": "Chapter 9: Plant Physiology",
+          "exercises": [
+            {"id": 10901, "title": "9.1 Nutrition in Plants"},
+            {"id": 10902, "title": "9.2 Transport in Plants"},
+            {"id": 10903, "title": "9.3 Transportation"},
+            {"id": 10904, "title": "9.4 Transport of Water and Salts in Plants"},
+            {"id": 10905, "title": "9.5 Translocation of Food in Plants"},
+            {"id": 10906, "title": "9.6 Gaseous Exchange in Plants"},
+            {"id": 10907, "title": "9.7 Mechanisms for Excretion in Plants"},
+            {"id": 10908, "title": "9.8 Osmotic Adjustments in Plants"}
+          ]
+        },
+        {
+          "id": 110,
+          "title": "Chapter 10: Reproduction in Plants",
+          "exercises": [
+            {"id": 11001, "title": "10.1 Types of Asexual Reproduction"},
+            {"id": 11002, "title": "10.2 Artificial Propagation"},
+            {"id": 11003, "title": "10.3 Sexual Reproduction in Plants"}
+          ]
+        },
+        {
+          "id": 111,
+          "title": "Chapter 11: Biostatistics",
+          "exercises": [
+            {"id": 11101, "title": "11.1 Introduction of Biostatistics"},
+            {"id": 11102, "title": "11.2 Mean, Median, and Mode"},
+            {"id": 11103, "title": "11.3 Bar Chart"}
+          ]
+        }
+      ]
+    },
+      {
+        "id": 2,
+        "name": "Chemistry",
+        "units": [
+        {
+          "id": 201,
+          "title": "Chapter 1: Fundamentals of Chemistry",
+          "exercises": [
+            {"id": 20101, "title": "1.1 Branches of Chemistry"},
+            {"id": 20102, "title": "1.2 Basic Definitions"},
+            {"id": 20103, "title": "1.3 Chemical Species"},
+            {"id": 20104, "title": "1.4 Gram Atomic Mass, Gram Molecular Mass and Gram Formula Mass"},
+            {"id": 20105, "title": "1.5 Avogadro's Number"}
+          ]
+        },
+        {
+          "id": 202,
+          "title": "Chapter 2: Structure of Atoms",
+          "exercises": [
+            {"id": 20201, "title": "2.1 Theories and Experiments Related to Structure of Atoms"},
+            {"id": 20202, "title": "2.2 Electronic Configuration"},
+            {"id": 20203, "title": "2.3 Isotopes"}
+          ]
+        },
+        {
+          "id": 203,
+          "title": "Chapter 3: Periodic Table and Periodicity of Properties",
+          "exercises": [
+            {"id": 20301, "title": "3.1 Periodic Table"},
+            {"id": 20302, "title": "3.2 Periodicity of Properties"}
+          ]
+        },
+        {
+          "id": 204,
+          "title": "Chapter 4: Structure of Molecules",
+          "exercises": [
+            {"id": 20401, "title": "4.1 Why do Atoms Form Chemical Bond?"},
+            {"id": 20402, "title": "4.2 Chemical Bond"},
+            {"id": 20403, "title": "4.3 Types of Chemical Bond"},
+            {"id": 20404, "title": "4.4 Inter Molecular Forces"},
+            {"id": 20405, "title": "4.5 Nature and Properties of Bonding"}
+          ]
+        },
+        {
+          "id": 205,
+          "title": "Chapter 5: Physical States of Matter",
+          "exercises": [
+            {"id": 20501, "title": "5.1 Typical Properties"},
+            {"id": 20502, "title": "5.2 Laws Related to Gases"},
+            {"id": 20503, "title": "5.3 Typical Properties of Liquid"},
+            {"id": 20504, "title": "5.4 Typical Properties of Solids"},
+            {"id": 20505, "title": "5.5 Types of Solids"},
+            {"id": 20506, "title": "5.6 Allotropy"}
+          ]
+        },
+        {
+          "id": 206,
+          "title": "Chapter 6: Solutions",
+          "exercises": [
+            {"id": 20601, "title": "6.1 Solution"},
+            {"id": 20602, "title": "6.2 Saturated Solutions"},
+            {"id": 20603, "title": "6.3 Types of Solutions"},
+            {"id": 20604, "title": "6.4 Concentration Units"},
+            {"id": 20605, "title": "6.5 Solubility"},
+            {"id": 20606, "title": "6.6 Comparison of Solution, Suspension and Colloid"}
+          ]
+        },
+        {
+          "id": 207,
+          "title": "Chapter 7: Electrochemistry",
+          "exercises": [
+            {"id": 20701, "title": "7.1 Oxidation and Reduction Reactions"},
+            {"id": 20702, "title": "7.2 Oxidation State and Rules For Assigning Oxidation State"},
+            {"id": 20703, "title": "7.3 Oxidizing and Reducing Agents"},
+            {"id": 20704, "title": "7.4 Oxidation-Reduction Reactions"},
+            {"id": 20705, "title": "7.5 Electrochemical Cells"},
+            {"id": 20706, "title": "7.6 Electrochemical Industries"},
+            {"id": 20707, "title": "7.7 Corrosion and its Prevention"}
+          ]
+        },
+        {
+          "id": 208,
+          "title": "Chapter 8: Chemical Reactivity",
+          "exercises": [
+            {"id": 20801, "title": "8.1 Metals"},
+            {"id": 20802, "title": "8.2 Non Metals"}
+          ]
+        }
+      ]
+      },
+      {
+        "id": 3,
+        "name": "Computer Science",
+        "units": [
+        {
+          "id": 301,
+          "title": "Chapter 1: Problem Solving",
+          "exercises": [
+            {"id": 30101, "title": "1.1 Problem Solving Steps"},
+            {"id": 30102, "title": "1.2 Flowcharts"},
+            {"id": 30103, "title": "1.3 Algorithm"},
+            {"id": 30104, "title": "1.4 Test Data"},
+            {"id": 30105, "title": "1.5 Verification and Validation"},
+            {"id": 30106, "title": "1.6 Identification and Correction of Errors"}
+          ]
+        },
+        {
+          "id": 302,
+          "title": "Chapter 2: Binary System",
+          "exercises": [
+            {"id": 30201, "title": "2.1 Introduction to Number Systems"},
+            {"id": 30202, "title": "2.2 Number System Conversion"},
+            {"id": 30203, "title": "2.3 Memory and Data Storage"},
+            {"id": 30204, "title": "2.4 Measurement of Size of Computer Memory"},
+            {"id": 30205, "title": "2.5 Boolean Algebra"}
+          ]
+        },
+        {
+          "id": 303,
+          "title": "Chapter 3: Networks",
+          "exercises": [
+            {"id": 30301, "title": "3.1 Computer Network"},
+            {"id": 30302, "title": "3.2 Physical Structure of Networks"},
+            {"id": 30303, "title": "3.3 Basics of Data Communication"},
+            {"id": 30304, "title": "3.4 Computer Network Models"},
+            {"id": 30305, "title": "3.5 The Need for Addressing"},
+            {"id": 30306, "title": "3.6 Sending & Receiving HTTP Responses over the Internet"},
+            {"id": 30307, "title": "3.7 Routing"}
+          ]
+        },
+        {
+          "id": 304,
+          "title": "Chapter 4: Data and Privacy",
+          "exercises": [
+            {"id": 30401, "title": "4.1 Ethical Issues Related to Security"},
+            {"id": 30402, "title": "4.2 Importance of Data Privacy"},
+            {"id": 30403, "title": "4.3 Simple Encryption"},
+            {"id": 30404, "title": "4.4 Encryption with Keys and Passwords"},
+            {"id": 30405, "title": "4.5 Cybercrime"}
+          ]
+        },
+        {
+          "id": 305,
+          "title": "Chapter 5: Designing Website",
+          "exercises": [
+            {"id": 30501, "title": "5.1 Introduction to HTML"},
+            {"id": 30502, "title": "5.2 Text Formatting"},
+            {"id": 30503, "title": "5.3 Creating Lists"},
+            {"id": 30504, "title": "5.4 Images and Backgrounds"},
+            {"id": 30505, "title": "5.5 Define a Hyperlink"},
+            {"id": 30506, "title": "5.6 Creating Tables"}
+          ]
+        }
+      ]
+      },
+      {
+        "id": 4,
+        "name": "English",
+        "units": [
+        {
+          "id": 401,
+          "title": "English A - Lessons & Poems",
+          "exercises": [
+            {"id": 40101, "title": "1.1 The Saviour of Mankind"},
+            {"id": 40102, "title": "1.2 Patriotism"},
+            {"id": 40103, "title": "1.3 Media and Its Impact"},
+            {"id": 40104, "title": "1.4 Hazrat Asma (R.A)"},
+            {"id": 40105, "title": "1.5 Daffodils (Poem)"},
+            {"id": 40106, "title": "1.6 The Quaid's Vision and Pakistan"},
+            {"id": 40107, "title": "1.7 Sultan Ahmad Masjid"},
+            {"id": 40108, "title": "1.8 Stopping by Woods on a Snowy Evening (Poem)"},
+            {"id": 40109, "title": "1.9 All is not Lost"},
+            {"id": 40110, "title": "1.10 Drug Addiction"},
+            {"id": 40111, "title": "1.11 Noise in the Environment"},
+            {"id": 40112, "title": "1.12 Three Days to See"},
+            {"id": 40113, "title": "1.13 Women's rights"}
+          ]
+        },
+        {
+          "id": 402,
+          "title": "English B - Writing Skills",
+          "exercises": [
+            {"id": 40201, "title": "2.1 Letters"},
+            {"id": 40202, "title": "2.2 Stories"},
+            {"id": 40203, "title": "2.3 Dialogues"},
+            {"id": 40204, "title": "2.4 Comprehension Paragraphs"},
+            {"id": 40205, "title": "2.5 Idioms"},
+            {"id": 40206, "title": "2.6 Applications"}
+          ]
+        },
+        {
+          "id": 403,
+          "title": "Grammar - Tenses & Structure",
+          "exercises": [
+            {"id": 40301, "title": "3.1 Use of is, am, are, was, were"},
+            {"id": 40302, "title": "3.2 Use of has and have"},
+            {"id": 40303, "title": "3.3 Use of had"},
+            {"id": 40304, "title": "3.4 Present Indefinite Tense"},
+            {"id": 40305, "title": "3.5 Present Continuous Tense"},
+            {"id": 40306, "title": "3.6 Present Perfect Tense"},
+            {"id": 40307, "title": "3.7 Present Perfect Continuous Tense"},
+            {"id": 40308, "title": "3.8 Past Indefinite Tense"},
+            {"id": 40309, "title": "3.9 Past Continuous Tense"},
+            {"id": 40310, "title": "3.10 Past Perfect Tense"},
+            {"id": 40311, "title": "3.11 Past Perfect Continuous Tense"},
+            {"id": 40312, "title": "3.12 Future Indefinite Tense"},
+            {"id": 40313, "title": "3.13 Future Continuous Tense"},
+            {"id": 40314, "title": "3.14 Future Perfect Tense"},
+            {"id": 40315, "title": "3.15 Future Perfect Continuous Tense"},
+            {"id": 40316, "title": "3.16 Imperative Sentences"},
+            {"id": 40317, "title": "3.17 Use of can, could, may, might, should, must, ought to"},
+            {"id": 40318, "title": "3.18 Use of introductory it and there"}
+          ]
+        },
+        {
+          "id": 404,
+          "title": "Reviews",
+          "exercises": [
+            {"id": 40401, "title": "4.1 Review I (Unit 1-4)"},
+            {"id": 40402, "title": "4.2 Review II (Unit 5-8)"},
+            {"id": 40403, "title": "4.3 Review III (Unit 9-12)"}
+          ]
+        }
+      ]
+      },
+      {
+        "id": 5,
+        "name": "Islamiat",
+        "units": [
+        {
+          "id": 501,
+          "title": "Chapter 1: آیات کریمہ",
+          "exercises": [
+            {"id": 50101, "title": "1.1 آیت نمبر 1"},
+            {"id": 50102, "title": "1.2 آیت نمبر 2"},
+            {"id": 50103, "title": "1.3 آیت نمبر 3"},
+            {"id": 50104, "title": "1.4 آیت نمبر 4"},
+            {"id": 50105, "title": "1.5 آیت نمبر 5"},
+            {"id": 50106, "title": "1.6 آیت نمبر 6"},
+            {"id": 50107, "title": "1.7 آیت نمبر 7"},
+            {"id": 50108, "title": "1.8 آیت نمبر 8"},
+            {"id": 50109, "title": "1.9 آیت نمبر 9"},
+            {"id": 50110, "title": "1.10 آیت نمبر 10"}
+          ]
+        },
+        {
+          "id": 502,
+          "title": "Chapter 2: احادیث مبارکہ",
+          "exercises": [
+            {"id": 50201, "title": "2.1 حدیث نمبر 1"},
+            {"id": 50202, "title": "2.2 حدیث نمبر 2"},
+            {"id": 50203, "title": "2.3 حدیث نمبر 3"},
+            {"id": 50204, "title": "2.4 حدیث نمبر 4"},
+            {"id": 50205, "title": "2.5 حدیث نمبر 5"},
+            {"id": 50206, "title": "2.6 حدیث نمبر 6"},
+            {"id": 50207, "title": "2.7 حدیث نمبر 7"},
+            {"id": 50208, "title": "2.8 حدیث نمبر 8"},
+            {"id": 50209, "title": "2.9 حدیث نمبر 9"},
+            {"id": 50210, "title": "2.10 حدیث نمبر 10"},
+            {"id": 50211, "title": "2.11 حدیث نمبر 11"},
+            {"id": 50212, "title": "2.12 حدیث نمبر 12"}
+          ]
+        },
+        {
+          "id": 503,
+          "title": "Chapter 3: باب اوّل : القرآن",
+          "exercises": [
+            {"id": 50301, "title": "3.1 القرآن"}
+          ]
+        },
+        {
+          "id": 504,
+          "title": "Chapter 4: باب چہارم : سیرتِ طیبہ ﷺ",
+          "exercises": [
+            {"id": 50401, "title": "4.1 افضل الرّسل ﷺ"},
+            {"id": 50402, "title": "4.2 رسالت: مفہوم، منصب اور اس کی عظمت"},
+            {"id": 50403, "title": "4.3 رسالت کی ضرورت اور اس کی اہمیت"},
+            {"id": 50404, "title": "4.4 انبیاء علیہم السّلام کی تبلیغی مساعی: حضرت نوح علیہ السّلام"},
+            {"id": 50405, "title": "4.5 انبیاء علیہم السّلام کی تبلیغی مساعی: حضرت ابراہیم علیہ السّلام"},
+            {"id": 50406, "title": "4.6 انبیاء علیہم السّلام کی تبلیغی مساعی: حضرت موسٰی علیہ السّلام"},
+            {"id": 50407, "title": "4.7 انبیاء علیہم السّلام کی تبلیغی مساعی: حضرت عیسٰی علیہ السّلام"},
+            {"id": 50408, "title": "4.8 آنحضور ﷺ کے فریضۂ رسالت کا مکّی دور"},
+            {"id": 50409, "title": "4.9 آنحضور ﷺ کے فریضۂ رسالت کا مدنی دور"},
+            {"id": 50410, "title": "4.10 تکمیلِ شریعت اور اسلامی حکومت کا قیام"},
+            {"id": 50411, "title": "4.11 ختمِ نبوت"},
+            {"id": 50412, "title": "4.12 آنحضور ﷺ کا پاکیزہ کردار: عہد طفولیت"},
+            {"id": 50413, "title": "4.13 آنحضور ﷺ کا پاکیزہ کردار: عہد شباب"},
+            {"id": 50414, "title": "4.14 اخلاقِ نبوی ﷺ"}
+          ]
+        },
+        {
+          "id": 505,
+          "title": "Chapter 5: باب پنجم : عربی زبان کی گرامر",
+          "exercises": [
+            {"id": 50501, "title": "5.1 کلمہ، اسم نکرہ و اسم معرفہ، مذکر مونث، مفرد، تثنیہ، جمع، جمع کی قسمیں"}
+          ]
+        }
+      ]
+      },
+      {
+        "id": 6,
+        "name": "Mathematics",
+        "units": [
+        {
+          "id": 601,
+          "title": "Chapter 1: Matrices and Determinants",
+          "exercises": [
+            {"id": 60101, "title": "1.1 EX: 1.1"},
+            {"id": 60102, "title": "1.2 EX: 1.2"},
+            {"id": 60103, "title": "1.3 EX: 1.3"},
+            {"id": 60104, "title": "1.4 EX: 1.4"},
+            {"id": 60105, "title": "1.5 EX: 1.5"},
+            {"id": 60106, "title": "1.6 EX: 1.6"},
+            {"id": 60107, "title": "1.7 Miscellaneous Exercise 1"},
+            {"id": 60108, "title": "1.8 Exercise 1"}
+          ]
+        },
+        {
+          "id": 602,
+          "title": "Chapter 2: Real and Complex Numbers",
+          "exercises": [
+            {"id": 60201, "title": "2.1 EX: 2.1"},
+            {"id": 60202, "title": "2.2 EX: 2.2"},
+            {"id": 60203, "title": "2.3 EX: 2.3"},
+            {"id": 60204, "title": "2.4 EX: 2.4"},
+            {"id": 60205, "title": "2.5 EX: 2.5"},
+            {"id": 60206, "title": "2.6 EX: 2.6"},
+            {"id": 60207, "title": "2.7 Miscellaneous Exercise 2"},
+            {"id": 60208, "title": "2.8 Exercise 2"}
+          ]
+        },
+        {
+          "id": 603,
+          "title": "Chapter 3: Logarithms",
+          "exercises": [
+            {"id": 60301, "title": "3.1 EX: 3.1"},
+            {"id": 60302, "title": "3.2 EX: 3.2"},
+            {"id": 60303, "title": "3.3 EX: 3.3"},
+            {"id": 60304, "title": "3.4 EX: 3.4"},
+            {"id": 60305, "title": "3.5 Review Exercise 3"},
+            {"id": 60306, "title": "3.6 Exercise 3"}
+          ]
+        },
+        {
+          "id": 604,
+          "title": "Chapter 4: Algebraic Expressions and Algebraic Formulas",
+          "exercises": [
+            {"id": 60401, "title": "4.1 EX: 4.1"},
+            {"id": 60402, "title": "4.2 EX: 4.2"},
+            {"id": 60403, "title": "4.3 EX: 4.3"},
+            {"id": 60404, "title": "4.4 EX: 4.4"},
+            {"id": 60405, "title": "4.5 Review Exercise 4"},
+            {"id": 60406, "title": "4.6 Exercise 4"}
+          ]
+        },
+        {
+          "id": 605,
+          "title": "Chapter 5: Factorization",
+          "exercises": [
+            {"id": 60501, "title": "5.1 EX: 5.1"},
+            {"id": 60502, "title": "5.2 EX: 5.2"},
+            {"id": 60503, "title": "5.3 EX: 5.3"},
+            {"id": 60504, "title": "5.4 EX: 5.4"},
+            {"id": 60505, "title": "5.5 Review Exercise 5"},
+            {"id": 60506, "title": "5.6 Exercise 5"}
+          ]
+        },
+        {
+          "id": 606,
+          "title": "Chapter 6: Algebraic Manipulation",
+          "exercises": [
+            {"id": 60601, "title": "6.1 EX: 6.1"},
+            {"id": 60602, "title": "6.2 EX: 6.2"},
+            {"id": 60603, "title": "6.3 EX: 6.3"},
+            {"id": 60604, "title": "6.4 Review Exercise 6"},
+            {"id": 60605, "title": "6.5 Exercise 6"}
+          ]
+        },
+        {
+          "id": 607,
+          "title": "Chapter 7: Linear Equations and Inequalities",
+          "exercises": [
+            {"id": 60701, "title": "7.1 EX: 7.1"},
+            {"id": 60702, "title": "7.2 EX: 7.2"},
+            {"id": 60703, "title": "7.3 EX: 7.3"},
+            {"id": 60704, "title": "7.4 Review Exercise 7"},
+            {"id": 60705, "title": "7.5 Exercise 7"}
+          ]
+        },
+        {
+          "id": 608,
+          "title": "Chapter 8: Linear Graphs & Their Application",
+          "exercises": [
+            {"id": 60801, "title": "8.1 EX: 8.1"},
+            {"id": 60802, "title": "8.2 EX: 8.2"},
+            {"id": 60803, "title": "8.3 EX: 8.3"},
+            {"id": 60804, "title": "8.4 Review Exercise 8"},
+            {"id": 60805, "title": "8.5 Exercise 8"}
+          ]
+        },
+        {
+          "id": 609,
+          "title": "Chapter 9: Introduction to Coordinate Geometry",
+          "exercises": [
+            {"id": 60901, "title": "9.1 EX: 9.1"},
+            {"id": 60902, "title": "9.2 EX: 9.2"},
+            {"id": 60903, "title": "9.3 EX: 9.3"},
+            {"id": 60904, "title": "9.4 Review Exercise 9"},
+            {"id": 60905, "title": "9.5 Exercise 9"}
+          ]
+        },
+        {
+          "id": 610,
+          "title": "Chapter 10: Congruent Triangles",
+          "exercises": [
+            {"id": 61001, "title": "10.1 EX: 10.1"},
+            {"id": 61002, "title": "10.2 EX: 10.2"},
+            {"id": 61003, "title": "10.3 EX: 10.3"},
+            {"id": 61004, "title": "10.4 EX: 10.4"},
+            {"id": 61005, "title": "10.5 Review Exercise 10"},
+            {"id": 61006, "title": "10.6 Exercise 10"}
+          ]
+        },
+        {
+          "id": 611,
+          "title": "Chapter 11: Parallelograms and Triangles",
+          "exercises": [
+            {"id": 61101, "title": "11.1 EX: 11.1"},
+            {"id": 61102, "title": "11.2 EX: 11.2"},
+            {"id": 61103, "title": "11.3 EX: 11.3"},
+            {"id": 61104, "title": "11.4 EX: 11.4"},
+            {"id": 61105, "title": "11.5 EX: 11.5"},
+            {"id": 61106, "title": "11.6 Review Exercise 11"},
+            {"id": 61107, "title": "11.7 Exercise 11"}
+          ]
+        },
+        {
+          "id": 612,
+          "title": "Chapter 12: Line Bisectors and Angle Bisectors",
+          "exercises": [
+            {"id": 61201, "title": "12.1 EX: 12.1"},
+            {"id": 61202, "title": "12.2 EX: 12.2"},
+            {"id": 61203, "title": "12.3 EX: 12.3"},
+            {"id": 61204, "title": "12.4 Review Exercise 12"},
+            {"id": 61205, "title": "12.5 Exercise 12"}
+          ]
+        },
+        {
+          "id": 613,
+          "title": "Chapter 13: Sides and Angles of a Triangle",
+          "exercises": [
+            {"id": 61301, "title": "13.1 EX: 13.1"},
+            {"id": 61302, "title": "13.2 EX: 13.2"},
+            {"id": 61303, "title": "13.3 Review Exercise 13"},
+            {"id": 61304, "title": "13.4 Exercise 13"}
+          ]
+        },
+        {
+          "id": 614,
+          "title": "Chapter 14: Ratio and Proportion",
+          "exercises": [
+            {"id": 61401, "title": "14.1 EX: 14.1"},
+            {"id": 61402, "title": "14.2 EX: 14.2"},
+            {"id": 61403, "title": "14.3 Review Exercise 14"},
+            {"id": 61404, "title": "14.4 Exercise 14"}
+          ]
+        },
+        {
+          "id": 615,
+          "title": "Chapter 15: Pythagoras' Theorem",
+          "exercises": [
+            {"id": 61501, "title": "15.1 EX: 15.1"},
+            {"id": 61502, "title": "15.2 Review Exercise 15"},
+            {"id": 61503, "title": "15.3 Exercise 15"}
+          ]
+        },
+        {
+          "id": 616,
+          "title": "Chapter 16: Theorems Related with Area",
+          "exercises": [
+            {"id": 61601, "title": "16.1 EX: 16.1"},
+            {"id": 61602, "title": "16.2 EX: 16.2"},
+            {"id": 61603, "title": "16.3 Review Exercise 16"},
+            {"id": 61604, "title": "16.4 Exercise 16"}
+          ]
+        },
+        {
+          "id": 617,
+          "title": "Chapter 17: Practical Geometry --- Triangles",
+          "exercises": [
+            {"id": 61701, "title": "17.1 EX: 17.1"},
+            {"id": 61702, "title": "17.2 EX: 17.2"},
+            {"id": 61703, "title": "17.3 EX: 17.3"},
+            {"id": 61704, "title": "17.4 EX: 17.4"},
+            {"id": 61705, "title": "17.5 EX: 17.5"},
+            {"id": 61706, "title": "17.6 Miscellaneous Exercise 17"},
+            {"id": 61707, "title": "17.7 Exercise 17"}
+          ]
+        }
+      ]
+      },
+      {
+        "id": 7,
+        "name": "Pakistan Studies",
+        "units": [
+        {
+          "id": 701,
+          "title": "Chapter 1: Ideological Basis of Pakistan",
+          "exercises": [
+            {"id": 70101, "title": "1.1 Definition, Sources and Significance of Ideology"},
+            {"id": 70102, "title": "1.2 Meaning of Ideology of Pakistan"},
+            {"id": 70103, "title": "1.3 Elements of Ideology of Pakistan"},
+            {"id": 70104, "title": "1.4 Two-Nation Theory: Origin and Evolution"},
+            {"id": 70105, "title": "1.5 Allama Iqbal, Quaid-e-Azam and Ideology of Pakistan"}
+          ]
+        },
+        {
+          "id": 702,
+          "title": "Chapter 2: The Pakistan Movement & Emergence of Pakistan",
+          "exercises": [
+            {"id": 70201, "title": "2.1 Background of Pakistan Movement"},
+            {"id": 70202, "title": "2.2 Early Problems of Pakistan"},
+            {"id": 70203, "title": "2.3 Quaid-e-Azam & Liaqat Ali Khan Role and Achievements"},
+            {"id": 70204, "title": "2.4 Objectives Resolution 1949"},
+            {"id": 70205, "title": "2.5 Process of Constitution making in Pakistan"},
+            {"id": 70206, "title": "2.6 Accession of States and Tribal Areas to Pakistan"},
+            {"id": 70207, "title": "2.7 Ayub Khan Era, 1958-1969"},
+            {"id": 70208, "title": "2.8 Economic Development of Ayub Khan's Era"},
+            {"id": 70209, "title": "2.9 Five Year Development Plans of Ayub Khan's Era"},
+            {"id": 70210, "title": "2.10 Yahya Khan Regime, 1969-71"},
+            {"id": 70211, "title": "2.11 Seperation of East Pakistan and Emergence of Bangladesh"}
+          ]
+        },
+        {
+          "id": 703,
+          "title": "Chapter 3: Land and Environment",
+          "exercises": [
+            {"id": 70301, "title": "3.1 Location of Pakistan"},
+            {"id": 70302, "title": "3.2 Physical Features of Pakistan"},
+            {"id": 70303, "title": "3.3 Climate Conditions of Pakistan"},
+            {"id": 70304, "title": "3.4 Major Glaciers and Rivers of Pakistan"},
+            {"id": 70305, "title": "3.5 Wild Life in Pakistan"},
+            {"id": 70306, "title": "3.6 Major Environmental Hazards and their Remedies of Pakistan"},
+            {"id": 70307, "title": "3.7 Problems Associated with Wild Life and Vegetation"}
+          ]
+        },
+        {
+          "id": 704,
+          "title": "Chapter 4: Women's Empowerment",
+          "exercises": [
+            {"id": 70401, "title": "4.1 Women's rights in Islam in the Light of Quran and Sunnah"},
+            {"id": 70402, "title": "4.2 Women's Role in Pakistan Movement"},
+            {"id": 70403, "title": "4.3 Women's Contribution in National Development from 1947 till Now"},
+            {"id": 70404, "title": "4.4 Violence Against Women"},
+            {"id": 70405, "title": "4.5 Government's Efforts to Address Violence Against Women in Pakistan"},
+            {"id": 70406, "title": "4.6 Government's Efforts to Address Women's Protection and Women's Empowerment in Pakistan"}
+          ]
+        }
+      ]
+      },
+      {
+        "id": 8,
+        "name": "Quran Translation",
+        "units": [
+        {
+          "id": 801,
+          "title": "ترجمۃ القرآن المجید",
+          "exercises": [
+            {"id": 80101, "title": "1.1 سُوۡرَةُ مَریَم"},
+            {"id": 80102, "title": "1.2 سُوۡرَةُ طٰه"},
+            {"id": 80103, "title": "1.3 سُوۡرَةُ الاٴنبیَاء"},
+            {"id": 80104, "title": "1.4 سُوۡرَةُ الحَجّ"},
+            {"id": 80105, "title": "1.5 سُوۡرَةُ الفُرقان"},
+            {"id": 80106, "title": "1.6 سُوۡرَةُ الشُّعَرَاء"},
+            {"id": 80107, "title": "1.7 سُوۡرَةُ النَّمل"},
+            {"id": 80108, "title": "1.8 سُوۡرَةُ القَصَص"},
+            {"id": 80109, "title": "1.9 سُوۡرَةُ العَنکبوت"},
+            {"id": 80110, "title": "1.10 سُوۡرَةُ الرُّوم"},
+            {"id": 80111, "title": "1.11 سُوۡرَةُ لقمَان"},
+            {"id": 80112, "title": "1.12 سُوۡرَةُ السَّجدَة"},
+            {"id": 80113, "title": "1.13 سُوۡرَةُ سَبَإ"},
+            {"id": 80114, "title": "1.14 سُوۡرَةُ فَاطِر"},
+            {"id": 80115, "title": "1.15 سُوۡرَةُ یسٓ"},
+            {"id": 80116, "title": "1.16 سُوۡرَةُ الصّٰٓفّٰت"},
+            {"id": 80117, "title": "1.17 سُوۡرَةُ صٓ"},
+            {"id": 80118, "title": "1.18 سُوۡرَةُ الاٴحقاف"}
+          ]
+        }
+      ]
+      },
+      {
+        "id": 9,
+        "name": "Urdu",
+        "units": [
+        {
+          "id": 901,
+          "title": "Chapter 1: نثر",
+          "exercises": [
+            {"id": 90101, "title": "1.1 نثر نمبر1: ہجرتِ نبویْ"},
+            {"id": 90102, "title": "1.2 نثر نمبر2: مرزا غالب کے عادات و خصائل"},
+            {"id": 90103, "title": "1.3 نثر نمبر3: کاہلی"},
+            {"id": 90104, "title": "1.4 نثر نمبر4: شاعروں کے لطیفے"},
+            {"id": 90105, "title": "1.5 نثر نمبر5: نصوح اور سلیم کی گفتگو"},
+            {"id": 90106, "title": "1.6 نثر نمبر6: پنچایت"},
+            {"id": 90107, "title": "1.7 نثر نمبر7: آرام و سکون"},
+            {"id": 90108, "title": "1.8 نثر نمبر8: لہو اور قالین"},
+            {"id": 90109, "title": "1.9 نثر نمبر9: امتحان"},
+            {"id": 90110, "title": "1.10 نثر نمبر10: ملکی پرندے اور دوسرے جانور"},
+            {"id": 90111, "title": "1.11 نثر نمبر11: قدرِ ایاز"}
+          ]
+        },
+        {
+          "id": 902,
+          "title": "Chapter 2: نظم",
+          "exercises": [
+            {"id": 90201, "title": "2.1 نظم نمبر1: حمد"},
+            {"id": 90202, "title": "2.2 نظم نمبر2: نعت"},
+            {"id": 90203, "title": "2.3 نظم نمبر3: برسات کی بہاریں"},
+            {"id": 90204, "title": "2.4 نظم نمبر4: پیوستہ رہ شجر سے امیدِ بہار رکھ"}
+          ]
+        },
+        {
+          "id": 903,
+          "title": "Chapter 3: غزل",
+          "exercises": [
+            {"id": 90301, "title": "3.1 غزل نمبر1: ہستی اپنی حباب کی سی ہے"},
+            {"id": 90302, "title": "3.2 غزل نمبر2: رخ و زلف پر جان کھو یا کیا"},
+            {"id": 90303, "title": "3.3 غزل نمبر3: دلِ ناداں تجھے ہوا کیا ہے؟"},
+            {"id": 90304, "title": "3.4 غزل نمبر4: لگتا نہیں ہے دل مرا اجڑے دیار میں"}
+          ]
+        },
+        {
+          "id": 904,
+          "title": "Chapter 4: اُردو (ب) - گرائمر",
+          "exercises": [
+            {"id": 90401, "title": "4.1 واحد / جمع"},
+            {"id": 90402, "title": "4.2 مذکر / مونث"},
+            {"id": 90403, "title": "4.3 الفاظ / متضاد"},
+            {"id": 90404, "title": "4.4 الفاظ / مترادف"},
+            {"id": 90405, "title": "4.5 غلط جملوں کی درستی"},
+            {"id": 90406, "title": "4.6 جملوں کی تکمیل"},
+            {"id": 90407, "title": "4.7 خطوط"},
+            {"id": 90408, "title": "4.8 درخواستیں"},
+            {"id": 90409, "title": "4.9 کہانیاں"},
+            {"id": 90410, "title": "4.10 مکالمے"},
+            {"id": 90411, "title": "4.11 رسید"},
+            {"id": 90412, "title": "4.12 روزمرّہ و محاورہ"},
+            {"id": 90413, "title": "4.13 ضرب الامثال"},
+            {"id": 90414, "title": "4.14 'نے' اور 'کو' کا استعمال"},
+            {"id": 90415, "title": "4.15 فعل کی فاعل کے ساتھ مطابقت"},
+            {"id": 90416, "title": "4.16 اسمِ صفت اور اسمِ موصوف میں مطابقت"}
+          ]
+        },
+        {
+          "id": 905,
+          "title": "Chapter 5: نظم خاص",
+          "exercises": [
+            {"id": 90501, "title": "5.1 حوصلہ نہ ہارو آگے بڑھو منزل اب کے دور نہیں"}
+          ]
+        }
+      ]
+      }
+    ],
+
+    "10th": [
+      {
+        "id": 1,
+        "name": "Biology",
+        "units": [
+          {
+            "id": 101,
+            "title": "Chapter 10: Gaseous Exchange",
+            "exercises": [
+              {"id": 10101, "title": "Gaseous Exchange in Plants"},
+              {"id": 10102, "title": "Gaseous Exchange in Humans"},
+              {"id": 10103, "title": "Respiratory Disorders"}
+            ]
+          },
+          {
+            "id": 102,
+            "title": "Chapter 11: Homeostasis",
+            "exercises": [
+              {"id": 10201, "title": "Homeostasis in Plants"},
+              {"id": 10202, "title": "Homeostasis in Humans"},
+              {"id": 10203, "title": "The Urinary System of Humans"},
+              {"id": 10204, "title": "Disorders of Kidney"}
+            ]
+          },
+          {
+            "id": 103,
+            "title": "Chapter 12: Coordination and Control",
+            "exercises": [
+              {"id": 10301, "title": "Types of Coordination"},
+              {"id": 10302, "title": "Human Nervous System"},
+              {"id": 10303, "title": "Receptors In Humans"},
+              {"id": 10304, "title": "Endocrine System"},
+              {"id": 10305, "title": "Disorders of Nervous System"}
+            ]
+          },
+          {
+            "id": 104,
+            "title": "Chapter 13: Support and Movement",
+            "exercises": [
+              {"id": 10401, "title": "Human Skeleton"},
+              {"id": 10402, "title": "Types Of Joints"},
+              {"id": 10403, "title": "Muscles and Movement"},
+              {"id": 10404, "title": "Disorders of Skeletal System"}
+            ]
+          },
+          {
+            "id": 105,
+            "title": "Chapter 14: Reproduction",
+            "exercises": [
+              {"id": 10501, "title": "Reproduction"},
+              {"id": 10502, "title": "Methods of Asexual Reproduction"},
+              {"id": 10503, "title": "Sexual Reproduction in Plants"},
+              {"id": 10504, "title": "Sexual Reproduction in Animals"}
+            ]
+          },
+          {
+            "id": 106,
+            "title": "Chapter 15: Inheritance",
+            "exercises": [
+              {"id": 10601, "title": "Introduction to Genetics"},
+              {"id": 10602, "title": "Chromosomes and Genes"},
+              {"id": 10603, "title": "Mendel's Laws of Inheritance"},
+              {"id": 10604, "title": "Co-Dominance and Incomplete Dominance"},
+              {"id": 10605, "title": "Variations and Evolution"}
+            ]
+          },
+          {
+            "id": 107,
+            "title": "Chapter 16: Man and his Environment",
+            "exercises": [
+              {"id": 10701, "title": "Levels of Biological Selection"},
+              {"id": 10702, "title": "Flow of Materials And Energy In Ecosystem"},
+              {"id": 10703, "title": "Interactions in Ecosystems"},
+              {"id": 10704, "title": "Ecosystem Balance and Human Impact"},
+              {"id": 10705, "title": "Pollution; Consequenses and Control"},
+              {"id": 10706, "title": "Conservation of Nature"}
+            ]
+          },
+          {
+            "id": 108,
+            "title": "Chapter 17: Biotechnology",
+            "exercises": [
+              {"id": 10801, "title": "Introduction of Biotechnology"},
+              {"id": 10802, "title": "Fermentation"},
+              {"id": 10803, "title": "Genetic Engineering"},
+              {"id": 10804, "title": "Single-Cell Protein"}
+            ]
+          },
+          {
+            "id": 109,
+            "title": "Chapter 18: Pharmacology",
+            "exercises": [
+              {"id": 10901, "title": "Medicinal Drugs"},
+              {"id": 10902, "title": "Addictive Drugs"},
+              {"id": 10903, "title": "Antibiotics and Vaccines"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chemistry",
+        "units": [
+          {
+            "id": 201,
+            "title": "Chapter 9: Chemical Equilibrium",
+            "exercises": [
+              {"id": 20101, "title": "Reversible Reaction and Dynamic Equilibrium"},
+              {"id": 20102, "title": "Law of Mass Action"},
+              {"id": 20103, "title": "Equilibrium Constant and Its Units"},
+              {"id": 20104, "title": "Importance of Equilibrium Constant"}
+            ]
+          },
+          {
+            "id": 202,
+            "title": "Chapter 10: Acids, Bases and Salts",
+            "exercises": [
+              {"id": 20201, "title": "Concepts of Acids and Bases"},
+              {"id": 20202, "title": "pH Scale"},
+              {"id": 20203, "title": "Salts"}
+            ]
+          },
+          {
+            "id": 203,
+            "title": "Chapter 11: Organic Chemistry",
+            "exercises": [
+              {"id": 20301, "title": "Organic Compounds"},
+              {"id": 20302, "title": "Sources of Organic Compounds"},
+              {"id": 20303, "title": "Uses of Organic Compounds"},
+              {"id": 20304, "title": "Alkanes and Alkyl Radicals"},
+              {"id": 20305, "title": "Functional Group"},
+              {"id": 20306, "title": "Tests of Functional Groups"}
+            ]
+          },
+          {
+            "id": 204,
+            "title": "Chapter 12: Hydrocarbons",
+            "exercises": [
+              {"id": 20401, "title": "Alkanes"},
+              {"id": 20402, "title": "Alkenes"},
+              {"id": 20403, "title": "Alkynes"}
+            ]
+          },
+          {
+            "id": 205,
+            "title": "Chapter 13: Biochemistry",
+            "exercises": [
+              {"id": 20501, "title": "Carbohydrates"},
+              {"id": 20502, "title": "Protein"},
+              {"id": 20503, "title": "Lipids"},
+              {"id": 20504, "title": "Nucleic Acids"},
+              {"id": 20505, "title": "Vitamins"}
+            ]
+          },
+          {
+            "id": 206,
+            "title": "Chapter 14: The Atmosphere",
+            "exercises": [
+              {"id": 20601, "title": "Composition of Atmosphere"},
+              {"id": 20602, "title": "Layers of Atmosphere"},
+              {"id": 20603, "title": "Pollutants"},
+              {"id": 20604, "title": "Acid Rain and Its Effects"},
+              {"id": 20605, "title": "Ozone Depletion and Its Effects"}
+            ]
+          },
+          {
+            "id": 207,
+            "title": "Chapter 15: Water",
+            "exercises": [
+              {"id": 20701, "title": "Properties of Water"},
+              {"id": 20702, "title": "Water as Solvent"},
+              {"id": 20703, "title": "Soft and Hard Water"},
+              {"id": 20704, "title": "Water Pollution"},
+              {"id": 20705, "title": "Waterborne Infectious Diseases"}
+            ]
+          },
+          {
+            "id": 208,
+            "title": "Chapter 16: Chemical Industries",
+            "exercises": [
+              {"id": 20801, "title": "Basic Metallurgical Operations"},
+              {"id": 20802, "title": "Manufacture of Sodium Carbonate by Solvay's Process"},
+              {"id": 20803, "title": "Manufacture of Urea"},
+              {"id": 20804, "title": "Petroleum Industry"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Computer Science",
+        "units": [
+          {
+            "id": 301,
+            "title": "Chapter 1: Introduction to Programming",
+            "exercises": [
+              {"id": 30101, "title": "Programming Environment"},
+              {"id": 30102, "title": "Programming Basics"},
+              {"id": 30103, "title": "Constants and Variables"}
+            ]
+          },
+          {
+            "id": 302,
+            "title": "Chapter 2: User Interaction",
+            "exercises": [
+              {"id": 30201, "title": "Input/ Output (I/O) Functions"},
+              {"id": 30202, "title": "Operators"}
+            ]
+          },
+          {
+            "id": 303,
+            "title": "Chapter 3: Conditional Logic",
+            "exercises": [
+              {"id": 30301, "title": "Control Statements"},
+              {"id": 30302, "title": "Selection Statements"}
+            ]
+          },
+          {
+            "id": 304,
+            "title": "Chapter 4: Data and Repetition",
+            "exercises": [
+              {"id": 30401, "title": "Data Structures"},
+              {"id": 30402, "title": "Loop Structures"}
+            ]
+          },
+          {
+            "id": 305,
+            "title": "Chapter 5: Functions",
+            "exercises": [
+              {"id": 30501, "title": "Functions"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "English",
+        "units": [
+          {
+            "id": 401,
+            "title": "Reading Section",
+            "exercises": [
+              {"id": 40101, "title": "Lesson#1: Hazrat Muhammad ﷺ an Embodiment of Justice"},
+              {"id": 40102, "title": "Lesson#2: Chinese New Year"},
+              {"id": 40103, "title": "Poem#3: Try Again"},
+              {"id": 40104, "title": "Lesson#4: First Aid"},
+              {"id": 40105, "title": "Poem#5: The Rain"},
+              {"id": 40106, "title": "Lesson#6: Television Vs. Newspapers"},
+              {"id": 40107, "title": "Lesson#7: Little by Little One Walks Far!"},
+              {"id": 40108, "title": "Lesson#8: Peace"},
+              {"id": 40109, "title": "Lesson#9: Selecting the Right Career"},
+              {"id": 40110, "title": "Lesson#10: A World Without Books"},
+              {"id": 40111, "title": "Lesson#11: Great Expectations"},
+              {"id": 40112, "title": "Lesson#12: Population Growth and World Food Supplies"},
+              {"id": 40113, "title": "Lesson#13: Faithfulness"}
+            ]
+          },
+          {
+            "id": 402,
+            "title": "Grammar: Direct & Indirect Speech",
+            "exercises": [
+              {"id": 40201, "title": "Assertive Sentences"},
+              {"id": 40202, "title": "Interrogative Sentences"},
+              {"id": 40203, "title": "Imperative Sentences"},
+              {"id": 40204, "title": "Exclamatory / Optative Sentences"}
+            ]
+          },
+          {
+            "id": 403,
+            "title": "English B",
+            "exercises": [
+              {"id": 40301, "title": "Pair of Words"},
+              {"id": 40302, "title": "Essays"},
+              {"id": 40303, "title": "Writing Paragraphs"},
+              {"id": 40304, "title": "Translate into English Paragraphs"}
+            ]
+          },
+          {
+            "id": 404,
+            "title": "Grammar: Correct Form of Verb",
+            "exercises": [
+              {"id": 40401, "title": "Present Indefinite Tense"},
+              {"id": 40402, "title": "Present Continuous Tense"}, 
+              {"id": 40403, "title": "Present Perfect Tense"},
+              {"id": 40404, "title": "Present Perfect Continuous Tense"},
+              {"id": 40405, "title": "Past Indefinite Tense"},
+              {"id": 40406, "title": "Past Continuous Tense"},
+              {"id": 40407, "title": "Past Perfect Tense"},
+              {"id": 40408, "title": "Past Perfect Continuous Tense"},
+              {"id": 40409, "title": "Future Indefinite Tense"},
+              {"id": 40410, "title": "Future Continuous Tense"}
+            ]
+          },
+          {
+            "id": 405,
+            "title": "Reviews",
+            "exercises": [
+              {"id": 40501, "title": "Review I (Unit 1-4)"},
+              {"id": 40502, "title": "Review II (Unit 5-8)"},
+              {"id": 40503, "title": "Review III (Unit 9-13)"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mathematics",
+        "units": [
+          {
+            "id": 501,
+            "title": "Chapter 1: Quadratic Equations",
+            "exercises": [
+              {"id": 50101, "title": "EX: 1.1"},
+              {"id": 50102, "title": "EX: 1.2"},
+              {"id": 50103, "title": "EX: 1.3"},
+              {"id": 50104, "title": "EX: 1.4"},
+              {"id": 50105, "title": "Miscellaneous Exercise 1"},
+              {"id": 50106, "title": "Exercise 1"}
+            ]
+          },
+          {
+            "id": 502,
+            "title": "Chapter 2: Theory of Quadratic Equations",
+            "exercises": [
+              {"id": 50201, "title": "EX: 2.1"},
+              {"id": 50202, "title": "EX: 2.2"},
+              {"id": 50203, "title": "EX: 2.3"},
+              {"id": 50204, "title": "EX: 2.4"},
+              {"id": 50205, "title": "EX: 2.5"},
+              {"id": 50206, "title": "EX: 2.6"},
+              {"id": 50207, "title": "EX: 2.7"},
+              {"id": 50208, "title": "EX: 2.8"},
+              {"id": 50209, "title": "Miscellaneous Exercise 2"},
+              {"id": 50210, "title": "Exercise 2"}
+            ]
+          },
+          {
+            "id": 503,
+            "title": "Chapter 3: Variations",
+            "exercises": [
+              {"id": 50301, "title": "EX: 3.1"},
+              {"id": 50302, "title": "EX: 3.2"},
+              {"id": 50303, "title": "EX: 3.3"},
+              {"id": 50304, "title": "EX: 3.4"},
+              {"id": 50305, "title": "EX: 3.5"},
+              {"id": 50306, "title": "EX: 3.6"},
+              {"id": 50307, "title": "EX: 3.7"},
+              {"id": 50308, "title": "Miscellaneous Exercise 3"},
+              {"id": 50309, "title": "Exercise 3"}
+            ]
+          },
+          {
+            "id": 504,
+            "title": "Chapter 4: Partial Fractions",
+            "exercises": [
+              {"id": 50401, "title": "EX: 4.1"},
+              {"id": 50402, "title": "EX: 4.2"},
+              {"id": 50403, "title": "EX: 4.3"},
+              {"id": 50404, "title": "EX: 4.4"},
+              {"id": 50405, "title": "Miscellaneous Exercise 4"},
+              {"id": 50406, "title": "Exercise 4"}
+            ]
+          },
+          {
+            "id": 505,
+            "title": "Chapter 5: Sets and Functions",
+            "exercises": [
+              {"id": 50501, "title": "EX: 5.1"},
+              {"id": 50502, "title": "EX: 5.2"},
+              {"id": 50503, "title": "EX: 5.3"},
+              {"id": 50504, "title": "EX: 5.4"},
+              {"id": 50505, "title": "EX: 5.5"},
+              {"id": 50506, "title": "Miscellaneous Exercise 5"},
+              {"id": 50507, "title": "Exercise 5"}
+            ]
+          },
+          {
+            "id": 506,
+            "title": "Chapter 6: Basic Statistics",
+            "exercises": [
+              {"id": 50601, "title": "EX: 6.1"},
+              {"id": 50602, "title": "EX: 6.2"},
+              {"id": 50603, "title": "EX: 6.3"},
+              {"id": 50604, "title": "Miscellaneous Exercise 6"},
+              {"id": 50605, "title": "Exercise 6"}
+            ]
+          },
+          {
+            "id": 507,
+            "title": "Chapter 7: Introduction to Trigonometry",
+            "exercises": [
+              {"id": 50701, "title": "EX: 7.1"},
+              {"id": 50702, "title": "EX: 7.2"},
+              {"id": 50703, "title": "EX: 7.3"},
+              {"id": 50704, "title": "EX: 7.4"},
+              {"id": 50705, "title": "EX: 7.5"},
+              {"id": 50706, "title": "Miscellaneous Exercise 7"},
+              {"id": 50707, "title": "Exercise 7"}
+            ]
+          },
+          {
+            "id": 508,
+            "title": "Chapter 8: Projection of a Side of a Triangle",
+            "exercises": [
+              {"id": 50801, "title": "EX: 8.1"},
+              {"id": 50802, "title": "EX: 8.2"},
+              {"id": 50803, "title": "Miscellaneous Exercise 8"},
+              {"id": 50804, "title": "Exercise 8"}
+            ]
+          },
+          {
+            "id": 509,
+            "title": "Chapter 9: Chords of a Circle",
+            "exercises": [
+              {"id": 50901, "title": "EX: 9.1"},
+              {"id": 50902, "title": "EX: 9.2"},
+              {"id": 50903, "title": "Miscellaneous Exercise 9"},
+              {"id": 50904, "title": "Exercise 9"}
+            ]
+          },
+          {
+            "id": 510,
+            "title": "Chapter 10: Tangent to a Circle",
+            "exercises": [
+              {"id": 51001, "title": "EX: 10.1"},
+              {"id": 51002, "title": "EX: 10.2"},
+              {"id": 51003, "title": "EX: 10.3"},
+              {"id": 51004, "title": "Miscellaneous Exercise 10"},
+              {"id": 51005, "title": "Exercise 10"}
+            ]
+          },
+          {
+            "id": 511,
+            "title": "Chapter 11: Chords and Arcs",
+            "exercises": [
+              {"id": 51101, "title": "EX: 11.1"},
+              {"id": 51102, "title": "Miscellaneous Exercise 11"},
+              {"id": 51103, "title": "Exercise 11"}
+            ]
+          },
+          {
+            "id": 512,
+            "title": "Chapter 12: Angle in a Segment of a Circle",
+            "exercises": [
+              {"id": 51201, "title": "EX: 12.1"},
+              {"id": 51202, "title": "Miscellaneous Exercise 12"},
+              {"id": 51203, "title": "Exercise 12"}
+            ]
+          },
+          {
+            "id": 513,
+            "title": "Chapter 13: Practical Geometry-Circles",
+            "exercises": [
+              {"id": 51301, "title": "EX: 13.1"},
+              {"id": 51302, "title": "EX: 13.2"},
+              {"id": 51303, "title": "EX: 13.3"},
+              {"id": 51304, "title": "Miscellaneous Exercise 13"},
+              {"id": 51305, "title": "Exercise 13"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Pakistan Studies",
+        "units": [
+          {
+            "id": 601,
+            "title": "Chapter 5: History of Pakistan-II (From 1971 to Present)",
+            "exercises": [
+              {"id": 60101, "title": "Z.A Bhutto's Era"},
+              {"id": 60102, "title": "General Zia-ul-Haq's Era"},
+              {"id": 60103, "title": "Benazir Bhutto's Era (1st, 2nd)"},
+              {"id": 60104, "title": "Mian Muhammad Nawaz Sharif's Era (1st, 2nd and 3rd)"},
+              {"id": 60105, "title": "General Pervaiz Musharraf's Era"},
+              {"id": 60106, "title": "Syed Yousaf Raza Gillani's Era"},
+              {"id": 60107, "title": "General Elections 2018"},
+              {"id": 60108, "title": "Constitution of Pakistan 1973"},
+              {"id": 60109, "title": "Pakistan as Nuclear Power"}
+            ]
+          },
+          {
+            "id": 602,
+            "title": "Chapter 6: Pakistan and World Affairs",
+            "exercises": [
+              {"id": 60201, "title": "Geo-political significance of Pakistan"},
+              {"id": 60202, "title": "Objectives of Pakistan's Foreign Policy"},
+              {"id": 60203, "title": "Pakistan's Relations with the Neighbouring Countries"},
+              {"id": 60204, "title": "Kashmir Issue"},
+              {"id": 60205, "title": "Pakistan's Relations with Central Asian Countries"},
+              {"id": 60206, "title": "Organization of Islamic Cooperation (OIC) and Pakistan"},
+              {"id": 60207, "title": "Relations between Pakistan and the countries of the OIC"},
+              {"id": 60208, "title": "Pakistan's Relations with SAARC Countries"},
+              {"id": 60209, "title": "Pakistan's Relations with World Powers"},
+              {"id": 60210, "title": "China-Pakistan Economic Corridor (CPEC)"},
+              {"id": 60211, "title": "Pakistan's Contribution towards Peace Keeping in the World"}
+            ]
+          },
+          {
+            "id": 603,
+            "title": "Chapter 7: Economic Development of Pakistan",
+            "exercises": [
+              {"id": 60301, "title": "Economic Developments in Pakistan Through Decade"},
+              {"id": 60302, "title": "Major Mineral Resources, Their Economic Importance and Distribution in Pakistan"},
+              {"id": 60303, "title": "Importance of Agriculture of Pakistan"},
+              {"id": 60304, "title": "Problems of Agriculture of Pakistan"},
+              {"id": 60305, "title": "Modernization in Agriculture of Pakistan"},
+              {"id": 60306, "title": "Measures taken by the government to increase agricultural production"},
+              {"id": 60307, "title": "Water Resources of Pakistan and Existing Irrigation System"},
+              {"id": 60308, "title": "Indus Water Treaty"},
+              {"id": 60309, "title": "Barrages and Canals on River Indus and its Eastern Tributaries"},
+              {"id": 60310, "title": "Production, Distribution of Major Crops, livestock and Fisheries in Pakistan"},
+              {"id": 60311, "title": "Importance of Industries, Their Location and production of Cottage, Small and Large-scale Industries"},
+              {"id": 60312, "title": "Importance, Production and Consumption of different Sources of Energy in Pakistan"},
+              {"id": 60313, "title": "International Trade of Pakistan (Imports and Exports) and its Impact on the Economy"}
+            ]
+          },
+          {
+            "id": 604,
+            "title": "Chapter 8: Population, Society and Culture of Pakistan",
+            "exercises": [
+              {"id": 60401, "title": "Growth and Distribution of Population in Pakistan"},
+              {"id": 60402, "title": "Gender composition, Gender Discrimination and its related Problems and their Solution"},
+              {"id": 60403, "title": "Salient Features of Pakistani Society and Culture"},
+              {"id": 60404, "title": "Problems of Pakistani Society and Their Solution"},
+              {"id": 60405, "title": "Education Conditions in Pakistan"},
+              {"id": 60406, "title": "Health Conditions in Pakistan"},
+              {"id": 60407, "title": "Importance of Tourism and Natural and Cultural Attraction for Tourism in Pakistan"},
+              {"id": 60408, "title": "Need and Importance of Interfaith Harmony, Tolerance and Resilience against Terrorism"},
+              {"id": 60409, "title": "Commonality in Regional Cultures Leading to National Integration and Cohesion"},
+              {"id": 60410, "title": "Origin and Evolution of National and Regional Languages"},
+              {"id": 60411, "title": "Causes, Consequences and Remedies for Poverty Alleviation in Pakistan"},
+              {"id": 60412, "title": "Contribution and Achievements of Minorities in Nation Building"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Physics",
+        "units": [
+          {
+            "id": 701,
+            "title": "Chapter 10: Simple Harmonic Motion and Waves",
+            "exercises": [
+              {"id": 70101, "title": "Simple Harmonic Motion (SHM)"},
+              {"id": 70102, "title": "Damped Oscillations"},
+              {"id": 70103, "title": "Wave Motion"},
+              {"id": 70104, "title": "Types of Mechanical Waves"},
+              {"id": 70105, "title": "Ripple Tank"}
+            ]
+          },
+          {
+            "id": 702,
+            "title": "Chapter 11: Sound",
+            "exercises": [
+              {"id": 70201, "title": "Sound Waves"},
+              {"id": 70202, "title": "Characteristics of Sound"},
+              {"id": 70203, "title": "Reflection (Echo) of Sound"},
+              {"id": 70204, "title": "Speed of Sound"},
+              {"id": 70205, "title": "Noise Pollution"},
+              {"id": 70206, "title": "Importance of Acoustics"},
+              {"id": 70207, "title": "Audible Frequency Range"},
+              {"id": 70208, "title": "Ultrasound"}
+            ]
+          },
+          {
+            "id": 703,
+            "title": "Chapter 12: Geometrical Optics",
+            "exercises": [
+              {"id": 70301, "title": "Reflection of Light"},
+              {"id": 70302, "title": "Spherical Mirrors"},
+              {"id": 70303, "title": "Image Location by Spherical Mirror Formula"},
+              {"id": 70304, "title": "Refraction of Light"},
+              {"id": 70305, "title": "Total Internal Reflection"},
+              {"id": 70306, "title": "Applications of Total Internal Reflection"},
+              {"id": 70307, "title": "Refraction Through Prism"},
+              {"id": 70308, "title": "Lenses"},
+              {"id": 70309, "title": "Image Formation by Lenses"},
+              {"id": 70310, "title": "Image Location by Lens Equation"},
+              {"id": 70311, "title": "Uses of Lenses"},
+              {"id": 70312, "title": "Simple Microscope"},
+              {"id": 70313, "title": "Compound Microscope"},
+              {"id": 70314, "title": "Telescope"},
+              {"id": 70315, "title": "The Human Eye"},
+              {"id": 70316, "title": "Defects of Vision"}
+            ]
+          },
+          {
+            "id": 704,
+            "title": "Chapter 13: Electrostatics",
+            "exercises": [
+              {"id": 70401, "title": "Production of Electric Charges"},
+              {"id": 70402, "title": "Electrostatic Induction"},
+              {"id": 70403, "title": "Electroscope"},
+              {"id": 70404, "title": "Coulomb's Law"},
+              {"id": 70405, "title": "Electric Field and Electric Field Intensity"},
+              {"id": 70406, "title": "Electrostatic Potential"},
+              {"id": 70407, "title": "Capacitors and Capacitance"},
+              {"id": 70408, "title": "Different Types of Capacitors"},
+              {"id": 70409, "title": "Applications of Electrostatics"},
+              {"id": 70410, "title": "Some Hazards of Static Electricity"}
+            ]
+          },
+          {
+            "id": 705,
+            "title": "Chapter 14: Current Electricity",
+            "exercises": [
+              {"id": 70501, "title": "Electric Current"},
+              {"id": 70502, "title": "Potential Difference"},
+              {"id": 70503, "title": "Electromotive Force (e.m.f)"},
+              {"id": 70504, "title": "OHM's Law"},
+              {"id": 70505, "title": "Characteristics of Ohmic and Non Ohmic Conductors"},
+              {"id": 70506, "title": "Factors Affecting Resistance"},
+              {"id": 70507, "title": "Conductors"},
+              {"id": 70508, "title": "Insulators"},
+              {"id": 70509, "title": "Combination of Resistors"},
+              {"id": 70510, "title": "Electrical Energy and Joule's Law"},
+              {"id": 70511, "title": "Electric Power"},
+              {"id": 70512, "title": "Direct Current and Alternating Current"},
+              {"id": 70513, "title": "Hazards of Electricity"},
+              {"id": 70514, "title": "Safe Use of Electricity in Homes"}
+            ]
+          },
+          {
+            "id": 706,
+            "title": "Chapter 15: Electromagnetism",
+            "exercises": [
+              {"id": 70601, "title": "Magnetic Effects of a Steady Current"},
+              {"id": 70602, "title": "Force on a Current-Carrying Conductor Placed in Magnetic Field"},
+              {"id": 70603, "title": "Turning Effect on a Current-Carrying Coil in a Magnetic Field"},
+              {"id": 70604, "title": "D.C. Motor"},
+              {"id": 70605, "title": "Electromagnetic Induction"},
+              {"id": 70606, "title": "Direction of Induced e.m.f. - Lenz's Law"},
+              {"id": 70607, "title": "A.C. Generator"},
+              {"id": 70608, "title": "Mutual Induction"},
+              {"id": 70609, "title": "Transformer"},
+              {"id": 70610, "title": "High Voltage Transmission"}
+            ]
+          },
+          {
+            "id": 707,
+            "title": "Chapter 16: Basic Electronics",
+            "exercises": [
+              {"id": 70701, "title": "Thermionic Emission"},
+              {"id": 70702, "title": "Investigating the Properties of Electrons"},
+              {"id": 70703, "title": "Cathode-Ray Oscilloscope (C.R.O)"},
+              {"id": 70704, "title": "Analogue and Digital Electronics"},
+              {"id": 70705, "title": "Basic Operations of Digital Electronics Logic Gates"},
+              {"id": 70706, "title": "AND Operation"},
+              {"id": 70707, "title": "OR Operation"},
+              {"id": 70708, "title": "NOT Operation"},
+              {"id": 70709, "title": "NAND Gate"},
+              {"id": 70710, "title": "NOR Gate"},
+              {"id": 70711, "title": "Uses of Logic Gates"}
+            ]
+          },
+          {
+            "id": 708,
+            "title": "Chapter 17: Information and Communication Technology",
+            "exercises": [
+              {"id": 70801, "title": "Information and Communication Technology"},
+              {"id": 70802, "title": "Components of Computer Based Information System (CBIS)"},
+              {"id": 70803, "title": "Flow of Information"},
+              {"id": 70804, "title": "Transmission of Electrical Signal Through Wires"},
+              {"id": 70805, "title": "Transmissions of Radio Waves Through Space"},
+              {"id": 70806, "title": "Transmission of Light Signals Through Optical Fibres"},
+              {"id": 70807, "title": "Information Storage Devices"},
+              {"id": 70808, "title": "Applications of Word Processing"},
+              {"id": 70809, "title": "Internet"},
+              {"id": 70810, "title": "Risks of ICT to Society and the Environment"}
+            ]
+          },
+          {
+            "id": 709,
+            "title": "Chapter 18: Atomic and Nuclear Physics",
+            "exercises": [
+              {"id": 70901, "title": "Atom and Atomic Nucleus"},
+              {"id": 70902, "title": "Natural Radio Activity"},
+              {"id": 70903, "title": "Background Radiations"},
+              {"id": 70904, "title": "Nuclear Transmutations"},
+              {"id": 70905, "title": "Half-Life and its Measurement"},
+              {"id": 70906, "title": "Radioisotopes and Their Uses"},
+              {"id": 70907, "title": "Fission Reaction"},
+              {"id": 70908, "title": "Nuclear Fusion"},
+              {"id": 70909, "title": "Hazards of Radiations and Safety Measures"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Quran Translation",
+        "units": [
+          {
+            "id": 801,
+            "title": "ترجمۃ القرآن المجید",
+            "exercises": [
+              {"id": 80101, "title": "سُوۡرَةُ الاٴنعَام"},
+              {"id": 80102, "title": "سُوۡرَةُ الاٴعرَاف"},
+              {"id": 80103, "title": "سُوۡرَةُ یُونس"},
+              {"id": 80104, "title": "سُوۡرَةُ هُود"},
+              {"id": 80105, "title": "سُوۡرَةُ الرّعد"},
+              {"id": 80106, "title": "سُوۡرَةُ إبراہیم"},
+              {"id": 80107, "title": "سُوۡرَةُ الحِجر"},
+              {"id": 80108, "title": "سُوۡرَةُ النّحل"},
+              {"id": 80109, "title": "سُوۡرَةُ بنیٓ اسرآئیل"},
+              {"id": 80110, "title": "سُوۡرَةُ الکهف"},
+              {"id": 80111, "title": "سُوۡرَةُ المؤمنون"},
+              {"id": 80112, "title": "سُوۡرَةُ الزُّمَر"},
+              {"id": 80113, "title": "سُوۡرَةُ مؤمن (اَلْغَا فِر)"},
+              {"id": 80114, "title": "سُوۡرَةُ حٰمٓ السجدة ( فُصّلَت)"},
+              {"id": 80115, "title": "سُوۡرَةُ الشّوریٰ"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Urdu",
+        "units": [
+          {
+            "id": 901,
+            "title": "نظمیں",
+            "exercises": [
+              {"id": 90101, "title": "حمد"},
+              {"id": 90102, "title": "نعت"},
+              {"id": 90103, "title": "میدان کربلا میں گرمی کی شدت"},
+              {"id": 90104, "title": "فاطمہ بنتِ عبداللہ"},
+              {"id": 90105, "title": "کسان"},
+              {"id": 90106, "title": "جیوے جیوے پاکستان"},
+              {"id": 90107, "title": "اونٹ کی شادی"},
+              {"id": 90108, "title": "مال گودام روڈ"}
+            ]
+          },
+          {
+            "id": 902,
+            "title": "نثر",
+            "exercises": [
+              {"id": 90201, "title": "مرزا محمد سعید"},
+              {"id": 90202, "title": "نظریۂ پاکستان"},
+              {"id": 90203, "title": "پرستان کی شہزادی"},
+              {"id": 90204, "title": "اردو ادب میں عیدالفطر"},
+              {"id": 90205, "title": "مجھے میرے دوستوں سے بچاؤ"},
+              {"id": 90206, "title": "ملَمَّع"},
+              {"id": 90207, "title": "چغل خور"},
+              {"id": 90208, "title": "نام دیو مالی"},
+              {"id": 90209, "title": "علی بخش"},
+              {"id": 90210, "title": "استنبول"},
+              {"id": 90211, "title": "خطوطِ غالب"},
+              {"id": 90212, "title": "خطوطِ رشید احمد صدیقی"}
+            ]
+          },
+          {
+            "id": 903,
+            "title": "غزلیں",
+            "exercises": [
+              {"id": 90301, "title": "مصیبت بھی راحت فزا ہوگئی ہے"},
+              {"id": 90302, "title": "آدمی آدمی سے ملتا ہے"},
+              {"id": 90303, "title": "سر میں سودا بھی نہیں، دل میں تمناّ بھی نہیں"},
+              {"id": 90304, "title": "یہ فخر تو حاصل ہے، بُرے ہیں یا بھلے ہیں"}
+            ]
+          },
+          {
+            "id": 904,
+            "title": "اضافی مواد",
+            "exercises": [
+              {"id": 90401, "title": "اُٹھ باندھ کمر کیوں ڈرتا ہے"},
+              {"id": 90402, "title": "بہادر بچّے"}
+            ]
+          },
+          {
+            "id": 905,
+            "title": "گرائمر",
+            "exercises": [
+              {"id": 90501, "title": "تلفّظ (اعراب)"},
+              {"id": 90502, "title": "گرائمر معروضی"},
+              {"id": 90503, "title": "مضامین"},
+              {"id": 90504, "title": "تفہیمِ عبارت"},
+              {"id": 90505, "title": "تشبیہ"},
+              {"id": 90506, "title": "استعارہ"},
+              {"id": 90507, "title": "مجازِ مرسل"},
+              {"id": 90508, "title": "ذومعنی اور مماثل الفاظ"},
+              {"id": 90509, "title": "صرف و نحو (اسم، فعل، حروف اور ان کی اقسام)"}
+            ]
+          }
+        ]
+      }
+    ],
+     "11th": [
+      {
+        "id": 1,
+        "name": "Biology",
+        "units": [
+          {
+            "id": 101,
+            "title": "Chapter 1: Introduction",
+            "exercises": [
+              {"id": 10101, "title": "1.1 Biology and some major fields of specialization"},
+              {"id": 10102, "title": "1.2 Levels of biological organization"},
+              {"id": 10103, "title": "1.3 Living world in time"},
+              {"id": 10104, "title": "1.4 Biology and the services and mankind"},
+              {"id": 10105, "title": "1.5 Protection and conservation of environment"}
+            ]
+          },
+          {
+            "id": 102,
+            "title": "Chapter 2: Biological Molecules",
+            "exercises": [
+              {"id": 10201, "title": "2.1 Introduction to biochemistry"},
+              {"id": 10202, "title": "2.2 Importance of carbon"},
+              {"id": 10203, "title": "2.3 Importance of water"},
+              {"id": 10204, "title": "2.4 Carbohydrates"},
+              {"id": 10205, "title": "2.5 Lipids"},
+              {"id": 10206, "title": "2.6 Proteins"},
+              {"id": 10207, "title": "2.7 Structure of proteins"},
+              {"id": 10208, "title": "2.8 Nuclei acids (DNA AND RNA)"}
+            ]
+          },
+          {
+            "id": 103,
+            "title": "Chapter 3: Enzymes",
+            "exercises": [
+              {"id": 10301, "title": "3.1 Characteristics of enzymes"},
+              {"id": 10302, "title": "3.2 Mechanism of enzyme action (CATALYSIS)"},
+              {"id": 10303, "title": "3.3 Factors affecting the rate of enzyme action"}
+            ]
+          },
+          {
+            "id": 104,
+            "title": "Chapter 4: The Cell",
+            "exercises": [
+              {"id": 10401, "title": "4.1 Emergence and implication of cell theory"},
+              {"id": 10402, "title": "4.2 Structure a generalized cell"},
+              {"id": 10403, "title": "4.3 Nucleus"},
+              {"id": 10404, "title": "4.4 Prokaryotic and eukaryotic cell"}
+            ]
+          },
+          {
+            "id": 105,
+            "title": "Chapter 5: Variety of Life",
+            "exercises": [
+              {"id": 10501, "title": "5.1 Nomenclature"},
+              {"id": 10502, "title": "5.2 Two to five kingdom classification system"},
+              {"id": 10503, "title": "5.3 Viruses"}
+            ]
+          },
+          {
+            "id": 106,
+            "title": "Chapter 6: Kingdom Prokaryotae(Monera)",
+            "exercises": [
+              {"id": 10601, "title": "6.1 Discovery of bacteria"},
+              {"id": 10602, "title": "6.2 Occurrence of bacteria"},
+              {"id": 10603, "title": "6.3 structure of bacteria"},
+              {"id": 10604, "title": "6.4 Importance of bacteria"},
+              {"id": 10605, "title": "6.5 Use and misuse of antibiotics"},
+              {"id": 10606, "title": "6.6 Characteristics of cyanobacteria"},
+              {"id": 10607, "title": "6.7 Economical importance"},
+              {"id": 10608, "title": "6.8 Nostoc"}
+            ]
+          },
+          {
+            "id": 107,
+            "title": "Chapter 7: The Kingdom Protista (or Protectista)",
+            "exercises": [
+              {"id": 10701, "title": "7.1 Historical perspective"},
+              {"id": 10702, "title": "7.2 Diversity among protista"},
+              {"id": 10703, "title": "7.3 major groups of protista"},
+              {"id": 10704, "title": "7.4 Fungi like protists"}
+            ]
+          },
+          {
+            "id": 108,
+            "title": "Chapter 8: Fungi",
+            "exercises": [
+              {"id": 10801, "title": "8.1 The body of fungus"},
+              {"id": 10802, "title": "8.2 Nutrition in fungi"},
+              {"id": 10803, "title": "8.3 Reproduction"},
+              {"id": 10804, "title": "8.4 Classification of fungi"},
+              {"id": 10805, "title": "8.5 Land adaptations of fungi"},
+              {"id": 10806, "title": "8.6 Importance of fungi"}
+            ]
+          },
+          {
+            "id": 109,
+            "title": "Chapter 9: Kingdom Plantae",
+            "exercises": [
+              {"id": 10901, "title": "9.1 Classification of plantae"},
+              {"id": 10902, "title": "9.2 Division bryophyta"},
+              {"id": 10903, "title": "9.3 Adaptation and land habitat"},
+              {"id": 10904, "title": "9.4 Classification"},
+              {"id": 10905, "title": "9.5 Division tracheophyta"},
+              {"id": 10906, "title": "9.6 Psilopsida (PSILOPHYTA)"},
+              {"id": 10907, "title": "9.7 Evolution of leaf"},
+              {"id": 10908, "title": "9.8 Lycopsida"},
+              {"id": 10909, "title": "9.9 Sphenopsida"},
+              {"id": 10910, "title": "9.10 Pteropsida"},
+              {"id": 10911, "title": "9.11 Evolution of seed Habitat"}
+            ]
+          },
+          {
+            "id": 110,
+            "title": "Chapter 10: Kingdom Animalia",
+            "exercises": [
+              {"id": 11001, "title": "10.1 Introduction & Development of complexity in animals"},
+              {"id": 11002, "title": "10.2 Parazoa"},
+              {"id": 11003, "title": "10.3 Grade Radiata"},
+              {"id": 11004, "title": "10.4 Grade Bilateria"}
+            ]
+          },
+          {
+            "id": 111,
+            "title": "Chapter 11: Bioenergetics",
+            "exercises": [
+              {"id": 11101, "title": "11.1 (Conversion of solar energy into chemical energy)"},
+              {"id": 11102, "title": "11.2 Chiloroplasts- The sites of photosynthesis in plants"},
+              {"id": 11103, "title": "11.3 Photosynthesis pigments"},
+              {"id": 11104, "title": "11.4 Light-the driving energy"},
+              {"id": 11105, "title": "11.5 Role of carbon dioxide: A photosynthetic reactant"},
+              {"id": 11106, "title": "11.6 Reactions of photosynthesis"}
+            ]
+          },
+          {
+            "id": 112,
+            "title": "Chapter 12: Nutrition",
+            "exercises": [
+              {"id": 11201, "title": "12.1 Autotrophic nutrition"},
+              {"id": 11202, "title": "12.2 Heterotrophic nutrition"},
+              {"id": 11203, "title": "12.3 Digestion and absorption"}
+            ]
+          },
+          {
+            "id": 113,
+            "title": "Chapter 13: Gaseous Exchange",
+            "exercises": [
+              {"id": 11301, "title": "13.1 Need of respiratory gas exchange"},
+              {"id": 11302, "title": "13.2 Advantages and disadvantages in air and in water"},
+              {"id": 11303, "title": "13.3 Gaseous exchange in plants"},
+              {"id": 11304, "title": "13.4 Psepiratory organs in representative aquatic and terrestrial animals"},
+              {"id": 11305, "title": "13.5 Mechanics of voluntary and involuntary regulation of breathing in man"},
+              {"id": 11306, "title": "13.6 Transport of prespiratory gases"}
+            ]
+          },
+          {
+            "id": 114,
+            "title": "Chapter 14: Transport",
+            "exercises": [
+              {"id": 11401, "title": "14.1 Introduction & Need for transport of matters"},
+              {"id": 11402, "title": "14.2 Transport in plants"},
+              {"id": 11403, "title": "14.3 Ascent of sap"},
+              {"id": 11404, "title": "14.4 Types of transpiration"},
+              {"id": 11405, "title": "14.5 Opening and closing stomata"},
+              {"id": 11406, "title": "14.6 Translocation of organic solutes"},
+              {"id": 11407, "title": "14.7 Transport in animals"},
+              {"id": 11408, "title": "14.8 Circulatory system"},
+              {"id": 11409, "title": "14.9 Transport in man"},
+              {"id": 11410, "title": "14.10 Disorders"},
+              {"id": 11411, "title": "14.11 Lymphatic system"},
+              {"id": 11412, "title": "14.12 Immunity- and its types"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chemistry",
+        "units": [
+          {
+            "id": 201,
+            "title": "Chapter 1: Basic Concepts",
+            "exercises": [
+              {"id": 20101, "title": "1.1 Atom"},
+              {"id": 20102, "title": "1.2 Relative Atomic Mass"},
+              {"id": 20103, "title": "1.3 Isotopes"},
+              {"id": 20104, "title": "1.4 Analysis of a Compound-Empirical and Molecular Formulas"},
+              {"id": 20105, "title": "1.5 Concept of Mole"},
+              {"id": 20106, "title": "1.6 Stoichiometry"},
+              {"id": 20107, "title": "1.7 Limiting Reactant"},
+              {"id": 20108, "title": "1.8 Yield"}
+            ]
+          },
+          {
+            "id": 202,
+            "title": "Chapter 2: Experimental Techniques in Chemistry",
+            "exercises": [
+              {"id": 20201, "title": "2.1 Filtration"},
+              {"id": 20202, "title": "2.2 Crystallization"},
+              {"id": 20203, "title": "2.3 Sublimation"},
+              {"id": 20204, "title": "2.4 Solvent Extraction"},
+              {"id": 20205, "title": "2.5 Chromatography"}
+            ]
+          },
+          {
+            "id": 203,
+            "title": "Chapter 3: Gases",
+            "exercises": [
+              {"id": 20301, "title": "3.1 States of Matter"},
+              {"id": 20302, "title": "3.2 Gas Laws"},
+              {"id": 20303, "title": "3.3 General Gas Equation"},
+              {"id": 20304, "title": "3.4 Avogadro's Law"},
+              {"id": 20305, "title": "3.5 Dalton's Law of Partial Pressure"},
+              {"id": 20306, "title": "3.6 Diffusion and Effusion"},
+              {"id": 20307, "title": "3.7 Kinetic Molecular Theory of Gases"},
+              {"id": 20308, "title": "3.8 Kinetic Interpretation of Temperature"},
+              {"id": 20309, "title": "3.9 Liquefaction of Gases"},
+              {"id": 20310, "title": "3.10 Non-Ideal Behaviour of Gases"},
+              {"id": 20311, "title": "3.11 Plasma State"}
+            ]
+          },
+          {
+            "id": 204,
+            "title": "Chapter 4: Liquids and Solids",
+            "exercises": [
+              {"id": 20401, "title": "4.1 Introduction & Intermolecular Forces"},
+              {"id": 20402, "title": "4.2 Evaporation"},
+              {"id": 20403, "title": "4.3 Liquid Crystals"},
+              {"id": 20404, "title": "4.4 Solids"},
+              {"id": 20405, "title": "4.5 Crystal Lattice"},
+              {"id": 20406, "title": "4.6 Crystals and Their Classification"},
+              {"id": 20407, "title": "4.7 Classification of Solids"},
+              {"id": 20408, "title": "4.8 Determination of Avogadro's Number (NA)"}
+            ]
+          },
+          {
+            "id": 205,
+            "title": "Chapter 5: Atomic Structure",
+            "exercises": [
+              {"id": 20501, "title": "5.1 Sub-Atomic Particles of Atom"},
+              {"id": 20502, "title": "5.2 Rutherford's Model of Atom (Discovery of Nucleus)"},
+              {"id": 20503, "title": "5.3 Planck's Quantum Theory"},
+              {"id": 20504, "title": "5.4 Bohr's Model of Atom"},
+              {"id": 20505, "title": "5.5 Spectrum"},
+              {"id": 20506, "title": "5.6 X-Rays and Atomic Number"},
+              {"id": 20507, "title": "5.7 Wave-Particle Nature of Matter (Dual Nature Matter)"},
+              {"id": 20508, "title": "5.8 Heisenberg's Uncertainly Principle"},
+              {"id": 20509, "title": "5.9 Electronic Distribution"}
+            ]
+          },
+          {
+            "id": 206,
+            "title": "Chapter 6: Chemical Bonding",
+            "exercises": [
+              {"id": 20601, "title": "6.1 Introduction"},
+              {"id": 20602, "title": "6.2 Atomic Sizes"},
+              {"id": 20603, "title": "6.3 Ionization Energy Electron Affinity and Electronegativity"},
+              {"id": 20604, "title": "6.4 Types of Bonds"},
+              {"id": 20605, "title": "6.5 Bond Energy, Bond Length and Dipole Moment"},
+              {"id": 20606, "title": "6.6 The Effect of Bonds on the Properties of Compounds"}
+            ]
+          },
+          {
+            "id": 207,
+            "title": "Chapter 7: Thermochemistry",
+            "exercises": [
+              {"id": 20701, "title": "7.1 Introduction & Spontaneous and Non-Spontaneous Reactions"},
+              {"id": 20702, "title": "7.2 System, Surrounding and State Function"},
+              {"id": 20703, "title": "7.3 Internal Energy and First Law of Thermodynamic"},
+              {"id": 20704, "title": "7.4 Enthalpy"},
+              {"id": 20705, "title": "7.5 Hess's Law of Constant Heat Summation"}
+            ]
+          },
+          {
+            "id": 208,
+            "title": "Chapter 8: Chemical Equilibrium",
+            "exercises": [
+              {"id": 20801, "title": "8.1 Reversible and Irreversible Reaction"},
+              {"id": 20802, "title": "8.2 Applications of Chemical Equilibrium in Industry"},
+              {"id": 20803, "title": "8.3 Ionic Product of Water"},
+              {"id": 20804, "title": "8.4 Ionization Constants of Acids (Ka)"},
+              {"id": 20805, "title": "8.5 Ionization Constant of Bases (Kb)"},
+              {"id": 20806, "title": "8.6 Lowry Bronsted Acid and Base Concept"},
+              {"id": 20807, "title": "8.7 Common Ion Effect"},
+              {"id": 20808, "title": "8.8 Buffer Solutions"},
+              {"id": 20809, "title": "8.9 Equilibria of Slightly Soluble Ionic Compounds (Solubility Product)"}
+            ]
+          },
+          {
+            "id": 209,
+            "title": "Chapter 9: Solutions",
+            "exercises": [
+              {"id": 20901, "title": "9.1 Concept of A Solution"},
+              {"id": 20902, "title": "9.2 Types of Solutions"},
+              {"id": 20903, "title": "9.3 Ideal and Non-Ideal Solutions"},
+              {"id": 20904, "title": "9.4 Vapour Pressures Liquid-Liquid Solutions"},
+              {"id": 20905, "title": "9.5 Solubility and Solubility Curves"},
+              {"id": 20906, "title": "9.6 Colligative Properties of Solutions"},
+              {"id": 20907, "title": "9.7 Energetic of Solution"},
+              {"id": 20908, "title": "9.8 Hydration and Hydrolysis"}
+            ]
+          },
+          {
+            "id": 210,
+            "title": "Chapter 10: Electrochemistry",
+            "exercises": [
+              {"id": 21001, "title": "10.1 Introduction & Oxidation State and Balancing of Redox Equations"},
+              {"id": 21002, "title": "10.2 Electrolytic Conduction"},
+              {"id": 21003, "title": "10.3 Electrode Potential"},
+              {"id": 21004, "title": "10.4 The Electrochemical Series"},
+              {"id": 21005, "title": "10.5 Modern Batteries and Fuel Cells"}
+            ]
+          },
+          {
+            "id": 211,
+            "title": "Chapter 11: Reaction Kinetics",
+            "exercises": [
+              {"id": 21101, "title": "11.1 Introduction & Rate of Reaction"},
+              {"id": 21102, "title": "11.2 Determination of The Rate of A Chemical Reaction"},
+              {"id": 21103, "title": "11.3 Energy of Activation"},
+              {"id": 21104, "title": "11.4 Finding the Order of Reaction"},
+              {"id": 21105, "title": "11.5 Factors Affecting Rates of Reactions"},
+              {"id": 21106, "title": "11.6 Catalysis"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Computer Science",
+        "units": [
+          {
+            "id": 301,
+            "title": "Chapter 1: Basics Of Information Technology",
+            "exercises": [
+              {"id": 30101, "title": "1.1 Modern Scenario & Hardware and Software"},
+              {"id": 30102, "title": "1.2 Input and Output Devices"},
+              {"id": 30103, "title": "1.3 System Software vs Application Software"},
+              {"id": 30104, "title": "1.4 Basic Units of Data Storage"},
+              {"id": 30105, "title": "1.5 System Development"}
+            ]
+          },
+          {
+            "id": 302,
+            "title": "Chapter 2: Information Networks",
+            "exercises": [
+              {"id": 30201, "title": "2.1 Overview & Workgroup Computing"},
+              {"id": 30202, "title": "2.2 E-mail and Its Benefits"},
+              {"id": 30203, "title": "2.3 Internet"},
+              {"id": 30204, "title": "2.4 Components of Network"},
+              {"id": 30205, "title": "2.5 LAN VS WAN"},
+              {"id": 30206, "title": "2.6 Networking Concepts"}
+            ]
+          },
+          {
+            "id": 303,
+            "title": "Chapter 3: Data Communications",
+            "exercises": [
+              {"id": 30301, "title": "3.1 Overview & Component of Data Communication"},
+              {"id": 30302, "title": "3.2 Signals"},
+              {"id": 30303, "title": "3.3 Type of Data"},
+              {"id": 30304, "title": "3.4 Encoding of Data"},
+              {"id": 30305, "title": "3.5 Models of Data Communication"},
+              {"id": 30306, "title": "3.6 Types of Data Transmission"},
+              {"id": 30307, "title": "3.7 Modern"}
+            ]
+          },
+          {
+            "id": 304,
+            "title": "Chapter 4: Applications and Uses of Computers",
+            "exercises": [
+              {"id": 30401, "title": "4.1 Overview & Uses of Computers in Different Fields"},
+              {"id": 30402, "title": "4.2 Computer Assistance Simplifying our work practices"}
+            ]
+          },
+          {
+            "id": 305,
+            "title": "Chapter 5: Computer Architecture",
+            "exercises": [
+              {"id": 30501, "title": "5.1 Overview & Bus Interconnection"},
+              {"id": 30502, "title": "5.2 The I/O Unit"},
+              {"id": 30503, "title": "5.3 Computer Operating and the instruction format"},
+              {"id": 30504, "title": "5.4 Instruction Format"},
+              {"id": 30505, "title": "5.5 Software"},
+              {"id": 30506, "title": "5.6 The Translators and their functions"}
+            ]
+          },
+          {
+            "id": 306,
+            "title": "Chapter 6: Security, Copyright and the Law",
+            "exercises": [
+              {"id": 30601, "title": "6.1 Overview & Virus and Antivirus Issues"},
+              {"id": 30602, "title": "6.2 Data Security"},
+              {"id": 30603, "title": "6.3 Data Protection Legislation and Copyright Issues"},
+              {"id": 30604, "title": "6.4 Important Privacy Acts"},
+              {"id": 30605, "title": "6.5 The copyright Act"}
+            ]
+          },
+          {
+            "id": 307,
+            "title": "Chapter 7: Windows Operating System",
+            "exercises": [
+              {"id": 30701, "title": "7.1 Overview & Types of Operating System"},
+              {"id": 30702, "title": "7.2 Starting to Use Windows Operating System"},
+              {"id": 30703, "title": "7.3 Disk Management"},
+              {"id": 30704, "title": "7.4 File Management"},
+              {"id": 30705, "title": "7.5 Control Printing Jobs"}
+            ]
+          },
+          {
+            "id": 308,
+            "title": "Chapter 8: Word Processing",
+            "exercises": [
+              {"id": 30801, "title": "8.1 Overview & What is a Word Processor?"},
+              {"id": 30802, "title": "8.2 A Simple Word Processor (Text Editor)"},
+              {"id": 30803, "title": "8.3 Full-featured Word Processors"},
+              {"id": 30804, "title": "8.4 Starting to Use Word Processor"}
+            ]
+          },
+          {
+            "id": 309,
+            "title": "Chapter 9: Spread Sheet",
+            "exercises": [
+              {"id": 30901, "title": "9.1 Overview & Features of Spreadsheet Software"},
+              {"id": 30902, "title": "9.2 The Spreadsheet's Interface"},
+              {"id": 30903, "title": "9.3 Entering Data in a Worksheet"},
+              {"id": 30904, "title": "9.4 Basic of Worksheet"},
+              {"id": 30905, "title": "9.5 Working with Formulas"},
+              {"id": 30906, "title": "9.6 Functions"},
+              {"id": 30907, "title": "9.7 Formatting and Customizing Data"},
+              {"id": 30908, "title": "9.8 Introducing Charts"},
+              {"id": 30909, "title": "9.9 Printing Worksheets and Charts"}
+            ]
+          },
+          {
+            "id": 310,
+            "title": "Chapter 10: Fundamentals of the Internet",
+            "exercises": [
+              {"id": 31001, "title": "10.1 Overview & How the Internet Works?"},
+              {"id": 31002, "title": "10.2 Addressing Schemes"},
+              {"id": 31003, "title": "10.3 Web Browsing"},
+              {"id": 31004, "title": "10.4 Email"},
+              {"id": 31005, "title": "10.5 Newsgroups"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "English",
+        "units": [
+          {
+            "id": 401,
+            "title": "Lessons",
+            "exercises": [
+              {"id": 40101, "title": "Lesson#1: Button, Button"},
+              {"id": 40102, "title": "Lesson#2: Clearing In the Sky"},
+              {"id": 40103, "title": "Lesson#3: Dark they were, and Golden-Eye"},
+              {"id": 40104, "title": "Lesson#4: Thank You, M'am"},
+              {"id": 40105, "title": "Lesson#5: The Piece Of String"},
+              {"id": 40106, "title": "Lesson#6: The Reward"},
+              {"id": 40107, "title": "Lesson#7: The Use of Force"},
+              {"id": 40108, "title": "Lesson#8: The Gullistan Of Sa'di"},
+              {"id": 40109, "title": "Lesson#9: The Foolish Quack"},
+              {"id": 40110, "title": "Lesson#10: A Mild Attack of Locusts"},
+              {"id": 40111, "title": "Lesson#11: I Have A Dream"},
+              {"id": 40112, "title": "Lesson#12: The Gift of The Magi"},
+              {"id": 40113, "title": "Lesson#13: God Be Praised"},
+              {"id": 40114, "title": "Lesson#14: Overcoat"},
+              {"id": 40115, "title": "Lesson#15: The Angel And The Author-and Others"}
+            ]
+          },
+          {
+            "id": 402,
+            "title": "Plays",
+            "exercises": [
+              {"id": 40201, "title": "Play#1: Heat Lightening"},
+              {"id": 40202, "title": "Play#2: Visit To A Small Planet"},
+              {"id": 40203, "title": "Play#3: The Oyster And The Pearl"}
+            ]
+          },
+          {
+            "id": 403,
+            "title": "Poems",
+            "exercises": [
+              {"id": 40301, "title": "Poem#1: The Rain"},
+              {"id": 40302, "title": "Poem#2: Night Mail"},
+              {"id": 40303, "title": "Poem#3: Loveliest Of Trees, The Cherry Now"},
+              {"id": 40304, "title": "Poem#4: O Where You Are Going?"},
+              {"id": 40305, "title": "Poem#5: In The Street Of The Fruits Stalls"},
+              {"id": 40306, "title": "Poem#6: A Sindhi Woman"},
+              {"id": 40307, "title": "Poem#7: Times"},
+              {"id": 40308, "title": "Poem#8: Ozymandias"},
+              {"id": 40309, "title": "Poem#9: The Feed"},
+              {"id": 40310, "title": "Poem#10: The Hollow Men"},
+              {"id": 40311, "title": "Poem#11: Leisure"},
+              {"id": 40312, "title": "Poem#12: Ruba'iyat"},
+              {"id": 40313, "title": "Poem#13: A Tale Of Two Cities"},
+              {"id": 40314, "title": "Poem#14: My Neighbour Friend Breathing His Last!"},
+              {"id": 40315, "title": "Poem#15: He Came To Know Himself"},
+              {"id": 40316, "title": "Poem#16: God's Attributes"},
+              {"id": 40317, "title": "Poem#17: The Delight Song"},
+              {"id": 40318, "title": "Poem#18: Love- and Essence of All Religions"},
+              {"id": 40319, "title": "Poem#19: A Man of Words And Not of Deeds"},
+              {"id": 40320, "title": "Poem#20: In Broken Images"}
+            ]
+          },
+          {
+            "id": 404,
+            "title": "Correct Form Of Verb",
+            "exercises": [
+              {"id": 40401, "title": "1 Present Indefinite Tense"},
+              {"id": 40402, "title": "2 Present Continuous Tense"},
+              {"id": 40403, "title": "3 Present Perfect Tense"},
+              {"id": 40404, "title": "4 Present Perfect Continuous Tense"},
+              {"id": 40405, "title": "5 Past Indefinite Tense"},
+              {"id": 40406, "title": "6 Past Continuous Tense"},
+              {"id": 40407, "title": "7 Past Perfect Tense"},
+              {"id": 40408, "title": "8 Past Perfect Continuous Tense"},
+              {"id": 40409, "title": "9 Future Indefinite Tense"},
+              {"id": 40410, "title": "10 Future Continuous Tense"},
+              {"id": 40411, "title": "11 Future Perfect Tense"},
+              {"id": 40412, "title": "12 Future Perfect Continuous Tense"}
+            ]
+          },
+          {
+            "id": 405,
+            "title": "English (B)",
+            "exercises": [
+              {"id": 40501, "title": "1 Letters"},
+              {"id": 40502, "title": "2 Applications"},
+              {"id": 40503, "title": "3 Stories"},
+              {"id": 40504, "title": "4 Pair Of Words"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Islamiat Lazmi",
+        "units": [
+          {
+            "id": 501,
+            "title": "بنیادی عقائد",
+            "exercises": [
+              {"id": 50101, "title": "توحید"},
+              {"id": 50102, "title": "رسالت"},
+              {"id": 50103, "title": "ملائکہ"},
+              {"id": 50104, "title": "آسمانی کتابیں"},
+              {"id": 50105, "title": "آخرت"}
+            ]
+          },
+          {
+            "id": 502,
+            "title": "اسلامی تشخص",
+            "exercises": [
+              {"id": 50201, "title": "ارکانِ اسلام"},
+              {"id": 50202, "title": "اللہ اور رسولﷺ کی محبت و اطاعت"},
+              {"id": 50203, "title": "حقوق العباد"},
+              {"id": 50204, "title": "معاشرتی ذمہ داریاں"}
+            ]
+          },
+          {
+            "id": 503,
+            "title": "اسوۂ رسولِ اکرمﷺ",
+            "exercises": [
+              {"id": 50301, "title": "رحمتہ للعالمین"},
+              {"id": 50302, "title": "اخوت"},
+              {"id": 50303, "title": "مساوات"},
+              {"id": 50304, "title": "صبرو استقلال"},
+              {"id": 50305, "title": "عفودرگزر"},
+              {"id": 50306, "title": "ذکر"}
+            ]
+          },
+          {
+            "id": 504,
+            "title": "تعارفِ قرآن و حدیث",
+            "exercises": [
+              {"id": 50401, "title": "تعارفِ قرآن"},
+              {"id": 50402, "title": "تعارفِ حدیث"},
+              {"id": 50403, "title": "منتخب آیات"},
+              {"id": 50404, "title": "منتخب احادیث"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Mathematics",
+        "units": [
+          {
+            "id": 601,
+            "title": "Chapter 1: Number System",
+            "exercises": [
+              {"id": 60101, "title": "1.1 EX : 1.1"},
+              {"id": 60102, "title": "1.2 EX : 1.2"},
+              {"id": 60103, "title": "1.3 EX : 1.3"}
+            ]
+          },
+          {
+            "id": 602,
+            "title": "Chapter 2: Sets, Functions and Groups",
+            "exercises": [
+              {"id": 60201, "title": "2.1 EX : 2.1"},
+              {"id": 60202, "title": "2.2 EX : 2.2"},
+              {"id": 60203, "title": "2.3 EX : 2.3"},
+              {"id": 60204, "title": "2.4 EX : 2.4"},
+              {"id": 60205, "title": "2.5 EX : 2.5"},
+              {"id": 60206, "title": "2.6 EX : 2.6"},
+              {"id": 60207, "title": "2.7 EX : 2.7"},
+              {"id": 60208, "title": "2.8 EX : 2.8"}
+            ]
+          },
+          {
+            "id": 603,
+            "title": "Chapter 3: Matrices and Determinants",
+            "exercises": [
+              {"id": 60301, "title": "3.1 EX : 3.1"},
+              {"id": 60302, "title": "3.2 EX : 3.2"},
+              {"id": 60303, "title": "3.3 EX : 3.3"},
+              {"id": 60304, "title": "3.4 EX : 3.4"},
+              {"id": 60305, "title": "3.5 EX 3.5"}
+            ]
+          },
+          {
+            "id": 604,
+            "title": "Chapter 4: Quadratic Equation",
+            "exercises": [
+              {"id": 60401, "title": "4.1 EX : 4.1"},
+              {"id": 60402, "title": "4.2 EX : 4.2"},
+              {"id": 60403, "title": "4.3 EX : 4.3"},
+              {"id": 60404, "title": "4.4 EX : 4.4"},
+              {"id": 60405, "title": "4.5 EX : 4.5"},
+              {"id": 60406, "title": "4.6 EX : 4.6"},
+              {"id": 60407, "title": "4.7 EX : 4.7"},
+              {"id": 60408, "title": "4.8 EX : 4.8"},
+              {"id": 60409, "title": "4.9 EX : 4.9"},
+              {"id": 60410, "title": "4.10 EX : 4.10"}
+            ]
+          },
+          {
+            "id": 605,
+            "title": "Chapter 5: Partial Fraction",
+            "exercises": [
+              {"id": 60501, "title": "5.1 EX : 5.1"},
+              {"id": 60502, "title": "5.2 EX : 5.2"},
+              {"id": 60503, "title": "5.3 EX : 5.3"},
+              {"id": 60504, "title": "5.4 EX : 5.4"}
+            ]
+          },
+          {
+            "id": 606,
+            "title": "Chapter 6: Sequences and Series",
+            "exercises": [
+              {"id": 60601, "title": "6.1 EX : 6.1"},
+              {"id": 60602, "title": "6.2 EX : 6.2"},
+              {"id": 60603, "title": "6.3 EX : 6.3"},
+              {"id": 60604, "title": "6.4 EX : 6.4"},
+              {"id": 60605, "title": "6.5 EX : 6.5"},
+              {"id": 60606, "title": "6.6 EX : 6.6"},
+              {"id": 60607, "title": "6.7 EX : 6.7"},
+              {"id": 60608, "title": "6.8 EX : 6.8"},
+              {"id": 60609, "title": "6.9 EX : 6.9"},
+              {"id": 60610, "title": "6.10 EX : 6.10"},
+              {"id": 60611, "title": "6.11 EX : 6.11"}
+            ]
+          },
+          {
+            "id": 607,
+            "title": "Chapter 7: Permutation, Combination and probability",
+            "exercises": [
+              {"id": 60701, "title": "7.1 EX : 7.1"},
+              {"id": 60702, "title": "7.2 EX : 7.2"},
+              {"id": 60703, "title": "7.3 EX : 7.3"},
+              {"id": 60704, "title": "7.4 EX : 7.4"},
+              {"id": 60705, "title": "7.5 EX : 7.5"},
+              {"id": 60706, "title": "7.6 EX : 7.6"},
+              {"id": 60707, "title": "7.7 EX : 7.7"},
+              {"id": 60708, "title": "7.8 EX : 7.8"}
+            ]
+          },
+          {
+            "id": 608,
+            "title": "Chapter 8: Mathematical Induction and Binomial Theorem",
+            "exercises": [
+              {"id": 60801, "title": "8.1 EX : 8.1"},
+              {"id": 60802, "title": "8.2 EX : 8.2"},
+              {"id": 60803, "title": "8.3 EX : 8.3"}
+            ]
+          },
+          {
+            "id": 609,
+            "title": "Chapter 9: Fundamentals of Trigonometry",
+            "exercises": [
+              {"id": 60901, "title": "9.1 EX : 9.1"},
+              {"id": 60902, "title": "9.2 EX : 9.2"},
+              {"id": 60903, "title": "9.3 EX : 9.3"},
+              {"id": 60904, "title": "9.4 EX : 9.4"}
+            ]
+          },
+          {
+            "id": 610,
+            "title": "Chapter 10: Trigonometric Identities",
+            "exercises": [
+              {"id": 61001, "title": "10.1 EX : 10.1"},
+              {"id": 61002, "title": "10.2 EX : 10.2"},
+              {"id": 61003, "title": "10.3 EX : 10.3"},
+              {"id": 61004, "title": "10.4 EX : 10.4"}
+            ]
+          },
+          {
+            "id": 611,
+            "title": "Chapter 11: Trigonometric Functions and their Graphs",
+            "exercises": [
+              {"id": 61101, "title": "11.1 EX : 11.1"},
+              {"id": 61102, "title": "11.2 EX : 11.2"}
+            ]
+          },
+          {
+            "id": 612,
+            "title": "Chapter 12: Application of Trigonometry",
+            "exercises": [
+              {"id": 61201, "title": "12.1 EX : 12.1"},
+              {"id": 61202, "title": "12.2 EX : 12.2"},
+              {"id": 61203, "title": "12.3 EX : 12.3"},
+              {"id": 61204, "title": "12.4 EX : 12.4"},
+              {"id": 61205, "title": "12.5 EX : 12.5"},
+              {"id": 61206, "title": "12.6 EX : 12.6"},
+              {"id": 61207, "title": "12.7 EX : 12.7"},
+              {"id": 61208, "title": "12.8 EX : 12.8"}
+            ]
+          },
+          {
+            "id": 613,
+            "title": "Chapter 13: Inverse Trigonometric Functions",
+            "exercises": [
+              {"id": 61301, "title": "13.1 EX : 13.1"},
+              {"id": 61302, "title": "13.2 EX : 13.2"}
+            ]
+          },
+          {
+            "id": 614,
+            "title": "Chapter 14: Solutions of Trigonometric Equation",
+            "exercises": [
+              {"id": 61401, "title": "14.1 EX : 14"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Physics",
+        "units": [
+          {
+            "id": 701,
+            "title": "Chapter 1: Measurements",
+            "exercises": [
+              {"id": 70101, "title": "1.1 Introduction to Physics"},
+              {"id": 70102, "title": "1.2 Physical Quantities"},
+              {"id": 70103, "title": "1.3 International System of Units"},
+              {"id": 70104, "title": "1.4 Errors and Uncertainties"},
+              {"id": 70105, "title": "1.5 Significant Figures"},
+              {"id": 70106, "title": "1.6 Precision and Accuracy"},
+              {"id": 70107, "title": "1.7 Assessment of Total Uncertainty in the Final Result"},
+              {"id": 70108, "title": "1.8 Dimensions of Physical Quantities"}
+            ]
+          },
+          {
+            "id": 702,
+            "title": "Chapter 2: Vectors and Equilibrium",
+            "exercises": [
+              {"id": 70201, "title": "2.1 Basic Concepts of Vectors"},
+              {"id": 70202, "title": "2.2 Vector Addition by Rectangular Components"},
+              {"id": 70203, "title": "2.3 Product of Two Vectors"},
+              {"id": 70204, "title": "2.4 Torque"},
+              {"id": 70205, "title": "2.5 Equilibrium of Forces"},
+              {"id": 70206, "title": "2.6 Equilibrium of Torques"}
+            ]
+          },
+          {
+            "id": 703,
+            "title": "Chapter 3: Motion and Force",
+            "exercises": [
+              {"id": 70301, "title": "3.1 Displacement"},
+              {"id": 70302, "title": "3.2 Velocity"},
+              {"id": 70303, "title": "3.3 Acceleration"},
+              {"id": 70304, "title": "3.4 Velocity-Time Graph"},
+              {"id": 70305, "title": "3.5 Review of Equations of Uniformly Accelerated Motion"},
+              {"id": 70306, "title": "3.6 Newton's Laws of Motion"},
+              {"id": 70307, "title": "3.7 Momentum"},
+              {"id": 70308, "title": "3.8 Elastic and Inelastic Collisions"},
+              {"id": 70309, "title": "3.9 Force Due to Water Flow"},
+              {"id": 70310, "title": "3.10 Momentum and Explosive Force"},
+              {"id": 70311, "title": "3.11 Rocket Propulsion"},
+              {"id": 70312, "title": "3.12 Projectile Motion"}
+            ]
+          },
+          {
+            "id": 704,
+            "title": "Chapter 4: Work and Energy",
+            "exercises": [
+              {"id": 70401, "title": "4.1 Work Done by a Constant Force"},
+              {"id": 70402, "title": "4.2 Work Done by a Variable Force"},
+              {"id": 70403, "title": "4.3 Work Done by Gravitational Field"},
+              {"id": 70404, "title": "4.4 Power"},
+              {"id": 70405, "title": "4.5 Energy"},
+              {"id": 70406, "title": "4.6 Interconversion of Potential Energy and Kinetic Energy"},
+              {"id": 70407, "title": "4.7 Conservation of Energy"},
+              {"id": 70408, "title": "4.8 Non Conventional Energy Sources"}
+            ]
+          },
+          {
+            "id": 705,
+            "title": "Chapter 5: Circular Motion",
+            "exercises": [
+              {"id": 70501, "title": "5.1 Angular Displacement"},
+              {"id": 70502, "title": "5.2 Angular Velocity"},
+              {"id": 70503, "title": "5.3 Angular Acceleration"},
+              {"id": 70504, "title": "5.4 Relation Between Angular and Linear Velocities"},
+              {"id": 70505, "title": "5.5 Centripetal Force"},
+              {"id": 70506, "title": "5.6 Moment of Inertia"},
+              {"id": 70507, "title": "5.7 Angular Momentum"},
+              {"id": 70508, "title": "5.8 Law of Conservation of Angular Momentum"},
+              {"id": 70509, "title": "5.9 Rotational Kinetic Energy"},
+              {"id": 70510, "title": "5.10 Artificial Satellites"},
+              {"id": 70511, "title": "5.11 Real and Apparent Weight"},
+              {"id": 70512, "title": "5.12 Weightlessness in Satellites and Gravity Free System"},
+              {"id": 70513, "title": "5.13 Orbital Velocity"},
+              {"id": 70514, "title": "5.14 Artificial Gravity"},
+              {"id": 70515, "title": "5.15 Geostationary Orbits"},
+              {"id": 70516, "title": "5.16 Communication Satellites"},
+              {"id": 70517, "title": "5.17 Newton's and Einstein's Views of Gravitation"}
+            ]
+          },
+          {
+            "id": 706,
+            "title": "Chapter 6: Fluid Dynamics",
+            "exercises": [
+              {"id": 70601, "title": "6.1 Viscous Drag and Stokes' Law"},
+              {"id": 70602, "title": "6.2 Terminal Velocity"},
+              {"id": 70603, "title": "6.3 Fluid Flow"},
+              {"id": 70604, "title": "6.4 Equation of Continuity"},
+              {"id": 70605, "title": "6.5 Bernoulli's Equation"},
+              {"id": 70606, "title": "6.6 Applications of Bernoulli's Equation"}
+            ]
+          },
+          {
+            "id": 707,
+            "title": "Chapter 7: Oscillations",
+            "exercises": [
+              {"id": 70701, "title": "7.1 Simple Harmonic Motion"},
+              {"id": 70702, "title": "7.2 SHM and Uniform Circular Motion"},
+              {"id": 70703, "title": "7.3 Phase"},
+              {"id": 70704, "title": "7.4 A Horizontal Mass Spring System"},
+              {"id": 70705, "title": "7.5 Simple Pendulum"},
+              {"id": 70706, "title": "7.6 Energy Conservation in SHM"},
+              {"id": 70707, "title": "7.7 Free and Forces Oscillations"},
+              {"id": 70708, "title": "7.8 Resonance"},
+              {"id": 70709, "title": "7.9 Damped Oscillations"},
+              {"id": 70710, "title": "7.10 Sharpness of Resonance"}
+            ]
+          },
+          {
+            "id": 708,
+            "title": "Chapter 8: Waves",
+            "exercises": [
+              {"id": 70801, "title": "8.1 Progressive Waves"},
+              {"id": 70802, "title": "8.2 Periodic Waves"},
+              {"id": 70803, "title": "8.3 Speed of Sound in Air"},
+              {"id": 70804, "title": "8.4 Principle of Superposition"},
+              {"id": 70805, "title": "8.5 Interference"},
+              {"id": 70806, "title": "8.6 Beats"},
+              {"id": 70807, "title": "8.7 Reflection of Waves"},
+              {"id": 70808, "title": "8.8 Stationary Waves"},
+              {"id": 70809, "title": "8.9 Stationary Waves in a Stretched String"},
+              {"id": 70810, "title": "8.10 Stationary Waves in Air Columns"},
+              {"id": 70811, "title": "8.11 Doppler Effect"}
+            ]
+          },
+          {
+            "id": 709,
+            "title": "Chapter 9: Physical Optics",
+            "exercises": [
+              {"id": 70901, "title": "9.1 Wavefronts"},
+              {"id": 70902, "title": "9.2 Huygen's Principle"},
+              {"id": 70903, "title": "9.3 Interference of Light Waves"},
+              {"id": 70904, "title": "9.4 Young's Double Slit Experiment"},
+              {"id": 70905, "title": "9.5 Interference in Thin Films"},
+              {"id": 70906, "title": "9.6 Newton's Rings"},
+              {"id": 70907, "title": "9.7 Michelson's Interferometer"},
+              {"id": 70908, "title": "9.8 Diffraction of Light"},
+              {"id": 70909, "title": "9.9 Diffraction Due to a Narrow Slit"},
+              {"id": 70910, "title": "9.10 Diffraction Grating"},
+              {"id": 70911, "title": "9.11 Diffraction of X-Rays by Crystals"},
+              {"id": 70912, "title": "9.12 Polarization"}
+            ]
+          },
+          {
+            "id": 710,
+            "title": "Chapter 10: Optical Instruments",
+            "exercises": [
+              {"id": 71001, "title": "10.1 Least Distance of Distinct Vision"},
+              {"id": 71002, "title": "10.2 Magnifying Power and Resolving Power of Optical Instruments"},
+              {"id": 71003, "title": "10.3 Simple Microscope"},
+              {"id": 71004, "title": "10.4 Compound Microscope"},
+              {"id": 71005, "title": "10.5 Astronomical Telescope"},
+              {"id": 71006, "title": "10.6 Spectrometer"},
+              {"id": 71007, "title": "10.7 Speed of Llight"},
+              {"id": 71008, "title": "10.8 Introduction to Fibre Optics"},
+              {"id": 71009, "title": "10.9 Fibre Optic Principles"},
+              {"id": 71010, "title": "10.10 Types of Optical Fibres"},
+              {"id": 71011, "title": "10.11 Signal Transmission and Conversion to Sound"},
+              {"id": 71012, "title": "10.12 Losses of Power"}
+            ]
+          },
+          {
+            "id": 711,
+            "title": "Chapter 11: Heat and Thermodynamics",
+            "exercises": [
+              {"id": 71101, "title": "11.1 Kinetic Theory of Gases"},
+              {"id": 71102, "title": "11.2 Internal Energy"},
+              {"id": 71103, "title": "11.3 Work and Heat"},
+              {"id": 71104, "title": "11.4 First law of Thermodynamics"},
+              {"id": 71105, "title": "11.5 Molar Specific Heats of a Gas"},
+              {"id": 71106, "title": "11.6 Reversible and Irreversible Processes"},
+              {"id": 71107, "title": "11.7 Heat Engine"},
+              {"id": 71108, "title": "11.8 Second law of Thermodynamics"},
+              {"id": 71109, "title": "11.9 Carnot Engine and Carnot's Theorem"},
+              {"id": 71110, "title": "11.10 Thermodynamic Scale Temperature"},
+              {"id": 71111, "title": "11.11 Petrol Engine"},
+              {"id": 71112, "title": "11.12 Entropy"},
+              {"id": 71113, "title": "11.13 Environmental Crisis as Entropy Crisis"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Quran Translation",
+        "units": [
+          {
+            "id": 801,
+            "title": "سُورۃاَلْبَقَرَة",
+            "exercises": [
+              {"id": 80101, "title": "سُورۃاَلْبَقَرَة"}
+            ]
+          },
+          {
+            "id": 802,
+            "title": "سُورۃاٰلِ عِمْرَان",
+            "exercises": [
+              {"id": 80201, "title": "سُورۃاٰلِ عِمْرَان"}
+            ]
+          },
+          {
+            "id": 803,
+            "title": "سُورۃاَلْاَ نْفَال",
+            "exercises": [
+              {"id": 80301, "title": "سُورۃاَلْاَ نْفَال"}
+            ]
+          },
+          {
+            "id": 804,
+            "title": "سُورۃاَلتَّوْبَة",
+            "exercises": [
+              {"id": 80401, "title": "سُورۃاَلتَّوْبَة"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Urdu Lazmi",
+        "units": [
+          {
+            "id": 901,
+            "title": "نثری حصہ (سبق)",
+            "exercises": [
+              {"id": 90101, "title": "باب نمبر 1: اسوہ حسنہﷺ"},
+              {"id": 90102, "title": "باب نمبر 2: اپنی مدد آپ"},
+              {"id": 90103, "title": "باب نمبر 3: سر سید کے اخلاق و خصائل"},
+              {"id": 90104, "title": "باب نمبر 4: ابو القاسم زہروی"},
+              {"id": 90105, "title": "باب نمبر 5: ادیب کی عزت"},
+              {"id": 90106, "title": "باب نمبر 6: اوورکوٹ"},
+              {"id": 90107, "title": "باب نمبر 7: سفارش"},
+              {"id": 90108, "title": "باب نمبر 8: چراغ کی لو"},
+              {"id": 90109, "title": "باب نمبر 9: مکتوبات غالب"},
+              {"id": 90110, "title": "باب نمبر 10: مکتوبات اقبالؒ"},
+              {"id": 90111, "title": "باب نمبر 11: لاہور کا جغرافیہ"},
+              {"id": 90112, "title": "باب نمبر 12: دوستی کا پھل"},
+              {"id": 90113, "title": "باب نمبر 13: کیا واقعی دنیا گول ہے؟"},
+              {"id": 90114, "title": "باب نمبر 14: اور آنا گھر مرغیوں کا"}
+            ]
+          },
+          {
+            "id": 902,
+            "title": "نظمیں",
+            "exercises": [
+              {"id": 90201, "title": "نظم نمبر 1: حمد"},
+              {"id": 90202, "title": "نظم نمبر 2: نعت"},
+              {"id": 90203, "title": "نظم نمبر 3: تسلیم ورضا"},
+              {"id": 90204, "title": "نظم نمبر 4: میدان کربلا میں صبح کا منظر"},
+              {"id": 90205, "title": "نظم نمبر 5: مستقبل کی جھلک"},
+              {"id": 90206, "title": "نظم نمبر 6: برسات"},
+              {"id": 90207, "title": "نظم نمبر 7: ہلال استقلال"},
+              {"id": 90208, "title": "نظم نمبر 8: خطابات بہ جوانان اسلام"},
+              {"id": 90209, "title": "نظم نمبر 9: پیغام"},
+              {"id": 90210, "title": "نظم نمبر 10: اپسٹریکٹ آرٹ"},
+              {"id": 90211, "title": "نظم نمبر 11: قطعات"},
+              {"id": 90212, "title": "نظم نمبر 12: لوکل بس"},
+              {"id": 90213, "title": "نظم نمبر 13: وحدانیت"}
+            ]
+          },
+          {
+            "id": 903,
+            "title": "غزلیات",
+            "exercises": [
+              {"id": 90301, "title": "غزل نمبر 1: میر تقی میر"},
+              {"id": 90302, "title": "غزل نمبر 2: حیدر علی آتش"},
+              {"id": 90303, "title": "غزل نمبر 3: مرزا خاں داغ"},
+              {"id": 90304, "title": "غزل نمبر 4: مومن خاں مومن"},
+              {"id": 90305, "title": "غزل نمبر 5: حسرت موہانی"},
+              {"id": 90306, "title": "غزل نمبر 6: فیض احمد فیض"},
+              {"id": 90307, "title": "غزل نمبر 7: احمد ندیم قاسمی"}
+            ]
+          },
+          {
+            "id": 904,
+            "title": "حصہ قوائدوانشا (معروضی)",
+            "exercises": [
+              {"id": 90401, "title": "1 مطلع"},
+              {"id": 90402, "title": "2 مقطع"},
+              {"id": 90403, "title": "3 قافیہ"},
+              {"id": 90404, "title": "4 ردیف"},
+              {"id": 90405, "title": "5 تلمیح"},
+              {"id": 90406, "title": "6 تشبیہہ"},
+              {"id": 90407, "title": "7 استعارہ"},
+              {"id": 90408, "title": "8 جملوں کی درستگی (تذکیروتانیث کےحوالےسے)"}
+            ]
+          },
+          {
+            "id": 905,
+            "title": "گرائمر اور تحریر",
+            "exercises": [
+              {"id": 90501, "title": "1 مکالمے"},
+              {"id": 90502, "title": "2 رداد/مضامین"},
+              {"id": 90503, "title": "3 درخواستیں"},
+              {"id": 90504, "title": "4 رسیدیں"},
+              {"id": 90505, "title": "5 تلخیص پیراگراف"}
+            ]
+          }
+        ]
+      }
+    ],
+      "12th": [
+      {
+        "id": 1,
+        "name": "Biology",
+        "units": [
+          {
+            "id": 101,
+            "title": "Chapter 15: Homeostasis",
+            "exercises": [
+              {"id": 10101, "title": "15.1 Concepts in Homeostasis"},
+              {"id": 10102, "title": "15.2 Osmoregulation in Plants"},
+              {"id": 10103, "title": "15.3 Osmoregulation in Animals"},
+              {"id": 10104, "title": "15.4 Excretion in Plants"},
+              {"id": 10105, "title": "15.5 Excretion in Animals"},
+              {"id": 10106, "title": "15.6 Excretion in Representative Animals"},
+              {"id": 10107, "title": "15.7 Excretion Vertebrates"},
+              {"id": 10108, "title": "15.8 Urinary System"},
+              {"id": 10109, "title": "15.9 Kidney Problems & Cures"},
+              {"id": 10110, "title": "15.10 Thermoregulation in Plants"},
+              {"id": 10111, "title": "15.11 Mechanism in Animals"},
+              {"id": 10112, "title": "15.12 Thermoregulation in Mammals (Human)"}
+            ]
+          },
+          {
+            "id": 102,
+            "title": "Chapter 16: Support and Movements",
+            "exercises": [
+              {"id": 10201, "title": "16.1 Support in Plants"},
+              {"id": 10202, "title": "16.2 Movement in Plants"},
+              {"id": 10203, "title": "16.3 Support & Movements in Animals"},
+              {"id": 10204, "title": "16.4 Human Skeleton"},
+              {"id": 10205, "title": "16.5 Joints"},
+              {"id": 10206, "title": "16.6 Deformities of Skeleton"},
+              {"id": 10207, "title": "16.7 Repair of Broken Bones"},
+              {"id": 10208, "title": "16.8 Muscles"},
+              {"id": 10209, "title": "16.9 Locomotion in Protista & Invertebrates"},
+              {"id": 10210, "title": "16.10 Locomotion and Skeleton in Vertebrates"}
+            ]
+          },
+          {
+            "id": 103,
+            "title": "Chapter 17: Coordination and Control",
+            "exercises": [
+              {"id": 10301, "title": "17.1 Coordination in Plants"},
+              {"id": 10302, "title": "17.2 Plant Hormones"},
+              {"id": 10303, "title": "17.3 Coordination in Animals"},
+              {"id": 10304, "title": "17.4 Nerve Impulse"},
+              {"id": 10305, "title": "17.5 Evolution of Nervous System"},
+              {"id": 10306, "title": "17.6 Human Nervous System"},
+              {"id": 10307, "title": "17.7 Nervous Disorders"},
+              {"id": 10308, "title": "17.8 Chemical Coordination"},
+              {"id": 10309, "title": "17.9 The Pituitary Gland"},
+              {"id": 10310, "title": "17.10 Thyroid Gland"},
+              {"id": 10311, "title": "17.11 Pancreas"},
+              {"id": 10312, "title": "17.12 Adrenals"},
+              {"id": 10313, "title": "17.13 GUT"},
+              {"id": 10314, "title": "17.14 Gonads"},
+              {"id": 10315, "title": "17.15 Feed back Mechanism"},
+              {"id": 10316, "title": "17.16 Behaviour"},
+              {"id": 10317, "title": "17.17 Learning Behaviour"}
+            ]
+          },
+          {
+            "id": 104,
+            "title": "Chapter 18: Reproduction",
+            "exercises": [
+              {"id": 10401, "title": "18.1 Reproduction in Plants"},
+              {"id": 10402, "title": "18.2 Photoperiodism & Vernalisation"},
+              {"id": 10403, "title": "18.3 Reproduction in Animal"},
+              {"id": 10404, "title": "18.4 Reproduction in Man"},
+              {"id": 10405, "title": "18.5 Female Reproductive Cycle"},
+              {"id": 10406, "title": "18.6 Birth"},
+              {"id": 10407, "title": "18.7 Test Tube Babies & STD"}
+            ]
+          },
+          {
+            "id": 105,
+            "title": "Chapter 19: Growth and Development",
+            "exercises": [
+              {"id": 10501, "title": "19.1 Growth and Development in Plants"},
+              {"id": 10502, "title": "19.2 Conditions of Growth"},
+              {"id": 10503, "title": "19.3 Growth Correlations"},
+              {"id": 10504, "title": "19.4 Growth and Development in Animals"},
+              {"id": 10505, "title": "19.5 Mechanisms of Development"},
+              {"id": 10506, "title": "19.6 Concept of Differentiation"},
+              {"id": 10507, "title": "19.7 Aging"},
+              {"id": 10508, "title": "19.8 Regeneration"},
+              {"id": 10509, "title": "19.9 Abnormal Development"}
+            ]
+          },
+          {
+            "id": 106,
+            "title": "Chapter 20: Chromosomes and DNA",
+            "exercises": [
+              {"id": 10601, "title": "20.1 Types and Composition of Chromosomes"},
+              {"id": 10602, "title": "20.2 The Chromosomal Theory of Inheritance"},
+              {"id": 10603, "title": "20.3 DNA as Hereditary Material"},
+              {"id": 10604, "title": "20.4 Chemical Nature of DNA"},
+              {"id": 10605, "title": "20.5 DNA Replication"},
+              {"id": 10606, "title": "20.6 What is a Gene?"},
+              {"id": 10607, "title": "20.7 How DNA encodes protein Structure + Transcription"},
+              {"id": 10608, "title": "20.8 Genetic Code & Translation"},
+              {"id": 10609, "title": "20.9 Mutation"}
+            ]
+          },
+          {
+            "id": 107,
+            "title": "Chapter 21: Cell Cycle",
+            "exercises": [
+              {"id": 10701, "title": "21.1 Interphase"},
+              {"id": 10702, "title": "21.2 Mitosis"},
+              {"id": 10703, "title": "21.3 Cancer"},
+              {"id": 10704, "title": "21.4 Meiosis"},
+              {"id": 10705, "title": "21.5 Meiotic Errors"},
+              {"id": 10706, "title": "21.6 Necrosis & Apoptosis"}
+            ]
+          },
+          {
+            "id": 108,
+            "title": "Chapter 22: Variation and Genetics",
+            "exercises": [
+              {"id": 10801, "title": "22.1 Genes, Alleles and Gene Pool"},
+              {"id": 10802, "title": "22.2 Mendel's Law of Inheritance"},
+              {"id": 10803, "title": "22.3 Dominance Relations"},
+              {"id": 10804, "title": "22.4 Multiple Alleles"},
+              {"id": 10805, "title": "22.5 Epistasis & Pleiotropy"},
+              {"id": 10806, "title": "22.6 Continuously Varying Traits"},
+              {"id": 10807, "title": "22.7 Gene Linkage & Crossing Over"},
+              {"id": 10808, "title": "22.8 Sex Determination"},
+              {"id": 10809, "title": "22.9 Sex Linkage in Drosophila"},
+              {"id": 10810, "title": "22.10 Sex Linkage in Humans"},
+              {"id": 10811, "title": "22.11 Diabetes Mellitus & its Genetic Basis"}
+            ]
+          },
+          {
+            "id": 109,
+            "title": "Chapter 23: Biotechnology",
+            "exercises": [
+              {"id": 10901, "title": "23.1 Recombinant DNA Technology"},
+              {"id": 10902, "title": "23.2 Genomic Library and PCR"},
+              {"id": 10903, "title": "23.3 Analyzing DNA + Gene Sequencing"},
+              {"id": 10904, "title": "23.4 The Human Genome Project"},
+              {"id": 10905, "title": "23.5 Biotechnology Products"},
+              {"id": 10906, "title": "23.6 Gene Therapy"},
+              {"id": 10907, "title": "23.7 Tissue Culture"},
+              {"id": 10908, "title": "23.8 Genetic Engineering of Plants"}
+            ]
+          },
+          {
+            "id": 110,
+            "title": "Chapter 24: Evolution",
+            "exercises": [
+              {"id": 11001, "title": "24.1 Concept of Evolution Vs Special Creation"},
+              {"id": 11002, "title": "24.2 Evolution from Prokaryotes of Eukaryotes"},
+              {"id": 11003, "title": "24.3 Lamarckism & Darwinism"},
+              {"id": 11004, "title": "24.4 Evidences of Evolution"},
+              {"id": 11005, "title": "24.5 Natural Selection & Artificial Selection"},
+              {"id": 11006, "title": "24.6 Gene Pool, Allele & Genotype Frequencies + Factors"},
+              {"id": 11007, "title": "24.7 Endangered Species"}
+            ]
+          },
+          {
+            "id": 111,
+            "title": "Chapter 25: Ecosystem",
+            "exercises": [
+              {"id": 11101, "title": "25.1 Ecosystem + Biosphere"},
+              {"id": 11102, "title": "25.2 Components of Ecosystem"},
+              {"id": 11103, "title": "25.3 Succession"},
+              {"id": 11104, "title": "25.4 Predation + Parasitism + Symbosis + Grazing"},
+              {"id": 11105, "title": "25.5 Biogeochemical Cycles"},
+              {"id": 11106, "title": "25.6 The flow of Energy in Food Chain of an Ecosystem"}
+            ]
+          },
+          {
+            "id": 112,
+            "title": "Chapter 26: Some Major Ecosystems",
+            "exercises": [
+              {"id": 11201, "title": "26.1 Aquatic or Hydrospheric Ecosystem"},
+              {"id": 11202, "title": "26.2 Terrestrial or Lithospheric Ecosystem"},
+              {"id": 11203, "title": "26.3 Forests Ecosystem"},
+              {"id": 11204, "title": "26.4 The Grassland Ecosystem"},
+              {"id": 11205, "title": "26.5 Desert Ecosystem"},
+              {"id": 11206, "title": "26.6 Tundra Ecosystem"}
+            ]
+          },
+          {
+            "id": 113,
+            "title": "Chapter 27: Man and his Environment",
+            "exercises": [
+              {"id": 11301, "title": "27.1 Renewable & Non-Renewable Resources"},
+              {"id": 11302, "title": "27.2 MAN's Impact on Environment"},
+              {"id": 11303, "title": "27.3 Deforestation & Afforestation"},
+              {"id": 11304, "title": "27.4 Pollution"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chemistry",
+        "units": [
+          {
+            "id": 201,
+            "title": "Chapter 1: Periodic Classification of Elements and Periodicity",
+            "exercises": [
+              {"id": 20101, "title": "1.1 Introduction"},
+              {"id": 20102, "title": "1.2 The Modern Periodic Table"},
+              {"id": 20103, "title": "1.3 Periodic Trends in Physical Properties"},
+              {"id": 20104, "title": "1.4 Periodic Relationship in Compounds"},
+              {"id": 20105, "title": "1.5 The Position of Hydrogen"}
+            ]
+          },
+          {
+            "id": 202,
+            "title": "Chapter 2: s-Block Elements",
+            "exercises": [
+              {"id": 20201, "title": "2.1 Introduction"},
+              {"id": 20202, "title": "2.2 General Behaviour of Alkali Metals"},
+              {"id": 20203, "title": "2.3 Commercial Preparation of Sodium by Down's Cell"},
+              {"id": 20204, "title": "2.4 Commercial Preparation of Sodium Hydroxide by the Diaphragm Cell"},
+              {"id": 20205, "title": "2.5 Role of Gypsum in Agriculture and Industry"},
+              {"id": 20206, "title": "2.6 Role of Lime in Agriculture and Industry"}
+            ]
+          },
+          {
+            "id": 203,
+            "title": "Chapter 3: Group IIIA and Group IVA Elements",
+            "exercises": [
+              {"id": 20301, "title": "3.1 Group IIIA Elements"},
+              {"id": 20302, "title": "3.2 Compounds of Boron"},
+              {"id": 20303, "title": "3.3 Reactions of Aluminium"},
+              {"id": 20304, "title": "3.4 Group IVA Elements"},
+              {"id": 20305, "title": "3.5 Compounds of Carbon and Silicon"},
+              {"id": 20306, "title": "3.6 Semiconductors"},
+              {"id": 20307, "title": "3.7 Uses of Lead Compounds in Paints"}
+            ]
+          },
+          {
+            "id": 204,
+            "title": "Chapter 4: Group VA and VIA Elements",
+            "exercises": [
+              {"id": 20401, "title": "4.1 Introduction"},
+              {"id": 20402, "title": "4.2 Nitrogen and Its Compounds"},
+              {"id": 20403, "title": "4.3 Phosphorus and Its Compounds"},
+              {"id": 20404, "title": "4.4 Group VIA Elements"},
+              {"id": 20405, "title": "4.5 Sulphuric Acid (H2SO4)"}
+            ]
+          },
+          {
+            "id": 205,
+            "title": "Chapter 5: The Halogens and the Noble Gases",
+            "exercises": [
+              {"id": 20501, "title": "5.1 Introduction"},
+              {"id": 20502, "title": "5.2 Occurrence"},
+              {"id": 20503, "title": "5.3 Peculiar Behaviour of Fluorine"},
+              {"id": 20504, "title": "5.4 Oxidizing Properties"},
+              {"id": 20505, "title": "5.5 Compounds of Halogens"},
+              {"id": 20506, "title": "5.6 Commercial Uses of Halogens and Their Compounds"},
+              {"id": 20507, "title": "5.7 Noble Gases"}
+            ]
+          },
+          {
+            "id": 206,
+            "title": "Chapter 6: Transition Elements",
+            "exercises": [
+              {"id": 20601, "title": "6.1 Introduction"},
+              {"id": 20602, "title": "6.2 Properties of Transition Elements"},
+              {"id": 20603, "title": "6.3 Complex Compounds"},
+              {"id": 20604, "title": "6.4 Iron"},
+              {"id": 20605, "title": "6.5 Corrosion"},
+              {"id": 20606, "title": "6.6 Chromates and Dichromates"},
+              {"id": 20607, "title": "6.7 Potassium Permanganate (KMnO4)"}
+            ]
+          },
+          {
+            "id": 207,
+            "title": "Chapter 7: Fundamental Principles of Organic Chemistry",
+            "exercises": [
+              {"id": 20701, "title": "7.1 Introduction"},
+              {"id": 20702, "title": "7.2 Some Features of Organic Compounds"},
+              {"id": 20703, "title": "7.3 Importance of Organic Chemistry"},
+              {"id": 20704, "title": "7.4 Sources of Organic Compounds"},
+              {"id": 20705, "title": "7.5 Cracking of Petroleum"},
+              {"id": 20706, "title": "7.6 Reforming"},
+              {"id": 20707, "title": "7.7 Classifications of Organic Compounds"},
+              {"id": 20708, "title": "7.8 Functional Group"},
+              {"id": 20709, "title": "7.9 Hybridization of Orbitals and the Shapes of Molecules"},
+              {"id": 20710, "title": "7.10 Isomerism"}
+            ]
+          },
+          {
+            "id": 208,
+            "title": "Chapter 8: Aliphatic Hydrocarbons",
+            "exercises": [
+              {"id": 20801, "title": "8.1 Introduction"},
+              {"id": 20802, "title": "8.2 Nomenclature"},
+              {"id": 20803, "title": "8.3 Alkanes or Paraffins"},
+              {"id": 20804, "title": "8.4 Alkenes"},
+              {"id": 20805, "title": "8.5 Alkynes"}
+            ]
+          },
+          {
+            "id": 209,
+            "title": "Chapter 9: Aromatic Hydrocarbons",
+            "exercises": [
+              {"id": 20901, "title": "9.1 Introduction"},
+              {"id": 20902, "title": "9.2 Nomenclature"},
+              {"id": 20903, "title": "9.3 Benzene"},
+              {"id": 20904, "title": "9.4 Preparation of Benzene"},
+              {"id": 20905, "title": "9.5 Reactions of Benzene"},
+              {"id": 20906, "title": "9.6 Comparison of Reactivities of Alkanes, Alkenes and Benzene"}
+            ]
+          },
+          {
+            "id": 210,
+            "title": "Chapter 10: Alkyl Halides",
+            "exercises": [
+              {"id": 21001, "title": "10.1 Introduction to Alkyl Halides"},
+              {"id": 21002, "title": "10.2 Nomenclature of Alkyl Halides"},
+              {"id": 21003, "title": "10.3 Methods of Preparation of Alkyl Halides"},
+              {"id": 21004, "title": "10.4 Reactivity of Alkyl Halides"},
+              {"id": 21005, "title": "10.5 Reactions of Alkyl Halides"},
+              {"id": 21006, "title": "10.6 Grignard Reagent"}
+            ]
+          },
+          {
+            "id": 211,
+            "title": "Chapter 11: Alcohols, Phenols and Ethers",
+            "exercises": [
+              {"id": 21101, "title": "11.1 Introduction"},
+              {"id": 21102, "title": "11.2 Alcohols"},
+              {"id": 21103, "title": "11.3 Distinction between Primary, Secondary and Tertiary Alcohols"},
+              {"id": 21104, "title": "11.4 Uses of Alcohols"},
+              {"id": 21105, "title": "11.5 Phenol"},
+              {"id": 21106, "title": "11.6 Ethers"}
+            ]
+          },
+          {
+            "id": 212,
+            "title": "Chapter 12: Aldehydes and Ketones",
+            "exercises": [
+              {"id": 21201, "title": "12.1 Introduction"},
+              {"id": 21202, "title": "12.2 Nomenclature"},
+              {"id": 21203, "title": "12.3 Preparation of Aldehydes and Ketones"},
+              {"id": 21204, "title": "12.4 Reactivity of Carbonyl Group"},
+              {"id": 21205, "title": "12.5 Reactions of Carbonyl Compounds"},
+              {"id": 21206, "title": "12.6 Identification of Carbonyl Compounds"},
+              {"id": 21207, "title": "12.7 Uses"}
+            ]
+          },
+          {
+            "id": 213,
+            "title": "Chapter 13: Carboxylic Acids",
+            "exercises": [
+              {"id": 21301, "title": "13.1 Introduction"},
+              {"id": 21302, "title": "13.2 Nomenclature of Carboxylic Acid"},
+              {"id": 21303, "title": "13.3 General Methods of Preparation"},
+              {"id": 21304, "title": "13.4 Physical Characteristics"},
+              {"id": 21305, "title": "13.5 Reactivity of Carboxyl Group"},
+              {"id": 21306, "title": "13.6 Reactions of Carboxylic Acids"},
+              {"id": 21307, "title": "13.7 Acetic Acid"},
+              {"id": 21308, "title": "13.8 Amino Acids"}
+            ]
+          },
+          {
+            "id": 214,
+            "title": "Chapter 14: Macromolecules",
+            "exercises": [
+              {"id": 21401, "title": "14.1 Introduction"},
+              {"id": 21402, "title": "14.2 Structure of Polymers"},
+              {"id": 21403, "title": "14.3 Types of Polymers"},
+              {"id": 21404, "title": "14.4 Polymerization Process"},
+              {"id": 21405, "title": "14.5 Brief Description of Synthetic Polymers"},
+              {"id": 21406, "title": "14.6 Biopolymers"}
+            ]
+          },
+          {
+            "id": 215,
+            "title": "Chapter 15: Common Chemical Industries in Pakistan",
+            "exercises": [
+              {"id": 21501, "title": "15.1 Introduction"},
+              {"id": 21502, "title": "15.2 Fertilizers"},
+              {"id": 21503, "title": "15.3 Elements Essential for Plant Growth"},
+              {"id": 21504, "title": "15.4 Classification of Fertilizers"},
+              {"id": 21505, "title": "15.5 Cement"},
+              {"id": 21506, "title": "15.6 Paper Industry"}
+            ]
+          },
+          {
+            "id": 216,
+            "title": "Chapter 16: Environmental Chemistry",
+            "exercises": [
+              {"id": 21601, "title": "16.1 Introduction"},
+              {"id": 21602, "title": "16.2 Types of Pollution"},
+              {"id": 21603, "title": "16.3 Factors Affecting the Quality of Water"},
+              {"id": 21604, "title": "16.4 Solid Waste Management"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Computer Science",
+        "units": [
+          {
+            "id": 301,
+            "title": "Chapter 1: Data Basics",
+            "exercises": [
+              {"id": 30101, "title": "1.1 Overview"},
+              {"id": 30102, "title": "1.2 Traditional File System"},
+              {"id": 30103, "title": "1.3 Databases"},
+              {"id": 30104, "title": "1.4 Database Management System"}
+            ]
+          },
+          {
+            "id": 302,
+            "title": "Chapter 2: Basic Concepts and Terminology of Databases",
+            "exercises": [
+              {"id": 30201, "title": "2.1 Overview"},
+              {"id": 30202, "title": "2.2 Attributes, Rows and Tables"},
+              {"id": 30203, "title": "2.3 Relation or Table"},
+              {"id": 30204, "title": "2.4 Views"},
+              {"id": 30205, "title": "2.5 Indexes"},
+              {"id": 30206, "title": "2.6 Keys"},
+              {"id": 30207, "title": "2.7 The User"},
+              {"id": 30208, "title": "2.8 The Data Administrator"},
+              {"id": 30209, "title": "2.9 The Database Administrator"}
+            ]
+          },
+          {
+            "id": 303,
+            "title": "Chapter 3: Database Design Process",
+            "exercises": [
+              {"id": 30301, "title": "3.1 Overview"},
+              {"id": 30302, "title": "3.2 Data Modeling"},
+              {"id": 30303, "title": "3.3 Database Design"},
+              {"id": 30304, "title": "3.4 Implementation"}
+            ]
+          },
+          {
+            "id": 304,
+            "title": "Chapter 4: Data Integrity and Normalization",
+            "exercises": [
+              {"id": 30401, "title": "4.1 Overview"}
+            ]
+          },
+          {
+            "id": 305,
+            "title": "Chapter 5: Introduction to Microsoft Access",
+            "exercises": [
+              {"id": 30501, "title": "5.1 Overview"},
+              {"id": 30502, "title": "5.2 MS-Access Application Window"},
+              {"id": 30503, "title": "5.3 Database Window"},
+              {"id": 30504, "title": "5.4 Database Objects"}
+            ]
+          },
+          {
+            "id": 306,
+            "title": "Chapter 6: Table and Query",
+            "exercises": [
+              {"id": 30601, "title": "6.1 Overview"},
+              {"id": 30602, "title": "6.2 Table Design View"},
+              {"id": 30603, "title": "6.3 Table Creation"},
+              {"id": 30604, "title": "6.4 Modifying a Table"},
+              {"id": 30605, "title": "6.5 Print a Datasheet"},
+              {"id": 30606, "title": "6.6 Table Relationships"},
+              {"id": 30607, "title": "6.7 Sorting and Filtering"},
+              {"id": 30608, "title": "6.8 Introduction to Queries"},
+              {"id": 30609, "title": "6.9 Performing Calculation in a Query"}
+            ]
+          },
+          {
+            "id": 307,
+            "title": "Chapter 7: Microsoft Access-Forms and Reports",
+            "exercises": [
+              {"id": 30701, "title": "7.1 Overview"},
+              {"id": 30702, "title": "7.2 Adding Records Using a Form"},
+              {"id": 30703, "title": "7.3 List and Combo Boxes"},
+              {"id": 30704, "title": "7.4 Check Boxes and Radio Buttons"},
+              {"id": 30705, "title": "7.5 Subform"},
+              {"id": 30706, "title": "7.6 Drag-and-Drop Method"},
+              {"id": 30707, "title": "7.7 Reports"},
+              {"id": 30708, "title": "7.8 Linking"},
+              {"id": 30709, "title": "7.9 Creating a Switchboard in Access"},
+              {"id": 30710, "title": "7.10 Keyboard Shortcuts"}
+            ]
+          },
+          {
+            "id": 308,
+            "title": "Chapter 8: Getting Started with C",
+            "exercises": [
+              {"id": 30801, "title": "8.1 Overview"},
+              {"id": 30802, "title": "8.2 Developing a C Program (A Stepwise Approach)"},
+              {"id": 30803, "title": "8.3 Basic Structure of a C Program"},
+              {"id": 30804, "title": "8.4 Common Programming Errors"},
+              {"id": 30805, "title": "8.5 Programming Languages"}
+            ]
+          },
+          {
+            "id": 309,
+            "title": "Chapter 9: Elements of C",
+            "exercises": [
+              {"id": 30901, "title": "9.1 Overview"},
+              {"id": 30902, "title": "9.2 Keywords"},
+              {"id": 30903, "title": "9.3 Constants"},
+              {"id": 30904, "title": "9.4 Data Type"},
+              {"id": 30905, "title": "9.5 Operators in C"},
+              {"id": 30906, "title": "9.6 Expression"},
+              {"id": 30907, "title": "9.7 Comments"}
+            ]
+          },
+          {
+            "id": 310,
+            "title": "Chapter 10: Input / Output",
+            "exercises": [
+              {"id": 31001, "title": "10.1 Overview"},
+              {"id": 31002, "title": "10.2 SCANF Function"},
+              {"id": 31003, "title": "10.3 Character Input"}
+            ]
+          },
+          {
+            "id": 311,
+            "title": "Chapter 11: Decision Constructs",
+            "exercises": [
+              {"id": 31101, "title": "11.1 Overview"},
+              {"id": 31102, "title": "11.2 IF Statement"},
+              {"id": 31103, "title": "11.3 Use of Logical Operators"},
+              {"id": 31104, "title": "11.4 SWITCH Statement"},
+              {"id": 31105, "title": "11.5 Conditional Operators"},
+              {"id": 31106, "title": "11.6 Case Study: Locating a point in the coordinate plane"}
+            ]
+          },
+          {
+            "id": 312,
+            "title": "Chapter 12: Loop Constructs",
+            "exercises": [
+              {"id": 31201, "title": "12.1 Overview"},
+              {"id": 31202, "title": "12.2 WHILE Statement"},
+              {"id": 31203, "title": "12.3 DO-WHILE Loop"},
+              {"id": 31204, "title": "12.4 FOR Statement"},
+              {"id": 31205, "title": "12.5 Nested Loop"},
+              {"id": 31206, "title": "12.6 GOTO Statement"}
+            ]
+          },
+          {
+            "id": 313,
+            "title": "Chapter 13: Functions in C",
+            "exercises": [
+              {"id": 31301, "title": "13.1 Overview"},
+              {"id": 31302, "title": "13.2 Importance of Functions"},
+              {"id": 31303, "title": "13.3 Types of Functions"},
+              {"id": 31304, "title": "13.4 Writing Functions in C"},
+              {"id": 31305, "title": "13.5 Function Prototype"},
+              {"id": 31306, "title": "13.6 Calling a Function"},
+              {"id": 31307, "title": "13.7 Local Variables and Their Scope"},
+              {"id": 31308, "title": "13.8 Global Variables and Their Scopes"},
+              {"id": 31309, "title": "13.9 Functions without Arguments"},
+              {"id": 31310, "title": "13.10 Functions that Return a Value and Accept Arguments"}
+            ]
+          },
+          {
+            "id": 314,
+            "title": "Chapter 14: File Handling in C",
+            "exercises": [
+              {"id": 31401, "title": "14.1 Overview"},
+              {"id": 31402, "title": "14.2 The Stream"},
+              {"id": 31403, "title": "14.3 Newline and EOF Marker"},
+              {"id": 31404, "title": "14.4 Opening a File"},
+              {"id": 31405, "title": "14.5 Closing a File"},
+              {"id": 31406, "title": "14.6 Reading and Writing Characters to a File"},
+              {"id": 31407, "title": "14.7 String Handling"},
+              {"id": 31408, "title": "14.8 String Handling in Text Files"},
+              {"id": 31409, "title": "14.9 Formatted I/O"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "English",
+        "units": [
+          {
+            "id": 401,
+            "title": "Lessons",
+            "exercises": [
+              {"id": 40101, "title": "Lesson#1: The Dying Sun"},
+              {"id": 40102, "title": "Lesson#2: Using The Scientific Method"},
+              {"id": 40103, "title": "Lesson#3: Why Boys Fail In College"},
+              {"id": 40104, "title": "Lesson#4: End of Term"},
+              {"id": 40105, "title": "Lesson#5: On Destroying Books"},
+              {"id": 40106, "title": "Lesson#6: The Man Who Was A Hospital"},
+              {"id": 40107, "title": "Lesson#7: My Financial Career"},
+              {"id": 40108, "title": "Lesson#8: China's Way To Progress"},
+              {"id": 40109, "title": "Lesson#9: Hunger And Population Explosion"},
+              {"id": 40110, "title": "Lesson#10: The Jewel Of The World"}
+            ]
+          },
+          {
+            "id": 402,
+            "title": "Heroes",
+            "exercises": [
+              {"id": 40201, "title": "Hero#1: First Year At Harrow"},
+              {"id": 40202, "title": "Hero#2: Hitch-Hiking Across The Sahara"},
+              {"id": 40203, "title": "Hero#3: Sir Alexander Fleming"},
+              {"id": 40204, "title": "Hero#4: Louis Pasteur"},
+              {"id": 40205, "title": "Hero#5: Mustafa Kamal"}
+            ]
+          },
+          {
+            "id": 403,
+            "title": "Mr. Chips",
+            "exercises": [
+              {"id": 40301, "title": "Mr.Chips-1"},
+              {"id": 40302, "title": "Mr.Chips-2"},
+              {"id": 40303, "title": "Mr.Chips-3"},
+              {"id": 40304, "title": "Mr.Chips-4"},
+              {"id": 40305, "title": "Mr.Chips-5"},
+              {"id": 40306, "title": "Mr.Chips-6"},
+              {"id": 40307, "title": "Mr.Chips-7"},
+              {"id": 40308, "title": "Mr.Chips-8"},
+              {"id": 40309, "title": "Mr.Chips-9"},
+              {"id": 40310, "title": "Mr.Chips-10"},
+              {"id": 40311, "title": "Mr.Chips-11"},
+              {"id": 40312, "title": "Mr.Chips-12"},
+              {"id": 40313, "title": "Mr.Chips-13"},
+              {"id": 40314, "title": "Mr.Chips-14"},
+              {"id": 40315, "title": "Mr.Chips-15"},
+              {"id": 40316, "title": "Mr.Chips-16"},
+              {"id": 40317, "title": "Mr.Chips-17"},
+              {"id": 40318, "title": "Mr.Chips-18"}
+            ]
+          },
+          {
+            "id": 404,
+            "title": "English (B)",
+            "exercises": [
+              {"id": 40401, "title": "1 Essays"},
+              {"id": 40402, "title": "2 Idioms"},
+              {"id": 40403, "title": "3 Translate into English Paragraphs"},
+              {"id": 40404, "title": "4 Correct Preposition"},
+              {"id": 40405, "title": "5 Correct Sentences"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mathematics",
+        "units": [
+          {
+            "id": 501,
+            "title": "Chapter 1: Functions and Limits",
+            "exercises": [
+              {"id": 50101, "title": "1.1 EX : 1.1"},
+              {"id": 50102, "title": "1.2 EX : 1.2"},
+              {"id": 50103, "title": "1.3 EX : 1.3"},
+              {"id": 50104, "title": "1.4 EX : 1.4"},
+              {"id": 50105, "title": "1.5 EX : 1.5"}
+            ]
+          },
+          {
+            "id": 502,
+            "title": "Chapter 2: Differentiation",
+            "exercises": [
+              {"id": 50201, "title": "2.1 EX : 2.1"},
+              {"id": 50202, "title": "2.2 EX : 2.2"},
+              {"id": 50203, "title": "2.3 EX : 2.3"},
+              {"id": 50204, "title": "2.4 EX : 2.4"},
+              {"id": 50205, "title": "2.5 EX : 2.5"},
+              {"id": 50206, "title": "2.6 EX : 2.6"},
+              {"id": 50207, "title": "2.7 EX : 2.7"},
+              {"id": 50208, "title": "2.8 EX : 2.8"},
+              {"id": 50209, "title": "2.9 EX : 2.9"},
+              {"id": 50210, "title": "2.10 EX : 2.10"}
+            ]
+          },
+          {
+            "id": 503,
+            "title": "Chapter 3: Integration",
+            "exercises": [
+              {"id": 50301, "title": "3.1 EX : 3.1"},
+              {"id": 50302, "title": "3.2 EX : 3.2"},
+              {"id": 50303, "title": "3.3 EX : 3.3"},
+              {"id": 50304, "title": "3.4 EX : 3.4"},
+              {"id": 50305, "title": "3.5 EX : 3.5"},
+              {"id": 50306, "title": "3.6 EX : 3.6"},
+              {"id": 50307, "title": "3.7 EX : 3.7"},
+              {"id": 50308, "title": "3.8 EX : 3.8"}
+            ]
+          },
+          {
+            "id": 504,
+            "title": "Chapter 4: Introduction to Analytic Geometry",
+            "exercises": [
+              {"id": 50401, "title": "4.1 EX : 4.1"},
+              {"id": 50402, "title": "4.2 EX : 4.2"},
+              {"id": 50403, "title": "4.3 EX : 4.3"},
+              {"id": 50404, "title": "4.4 EX : 4.4"},
+              {"id": 50405, "title": "4.5 EX : 4.5"}
+            ]
+          },
+          {
+            "id": 505,
+            "title": "Chapter 5: Linear Inequalities and Linear Programming",
+            "exercises": [
+              {"id": 50501, "title": "5.1 EX : 5.1"},
+              {"id": 50502, "title": "5.2 EX : 5.2"},
+              {"id": 50503, "title": "5.3 EX : 5.3"}
+            ]
+          },
+          {
+            "id": 506,
+            "title": "Chapter 6: Conic Section",
+            "exercises": [
+              {"id": 50601, "title": "6.1 EX : 6.1"},
+              {"id": 50602, "title": "6.2 EX : 6.2"},
+              {"id": 50603, "title": "6.3 EX : 6.3"},
+              {"id": 50604, "title": "6.4 EX : 6.4"},
+              {"id": 50605, "title": "6.5 EX : 6.5"},
+              {"id": 50606, "title": "6.6 EX : 6.6"},
+              {"id": 50607, "title": "6.7 EX : 6.7"},
+              {"id": 50608, "title": "6.8 EX : 6.8"},
+              {"id": 50609, "title": "6.9 EX : 6.9"}
+            ]
+          },
+          {
+            "id": 507,
+            "title": "Chapter 7: Vectors",
+            "exercises": [
+              {"id": 50701, "title": "7.1 EX : 7.1"},
+              {"id": 50702, "title": "7.2 EX : 7.2"},
+              {"id": 50703, "title": "7.3 EX : 7.3"},
+              {"id": 50704, "title": "7.4 EX : 7.4"},
+              {"id": 50705, "title": "7.5 EX : 7.5"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Pakistan Studies",
+        "units": [
+          {
+            "id": 601,
+            "title": "Islam and Pakistan",
+            "exercises": [
+              {"id": 60101, "title": "1.1 Islam as the Ideological Base of Pakistan"},
+              {"id": 60102, "title": "1.2 The Sunnah of Prophet Muhammad خَاتَمَ النَّبِیّٖنَﷺ"},
+              {"id": 60103, "title": "1.3 Basic Principles of Islam"},
+              {"id": 60104, "title": "1.4 Definition and Functions of an Islamic Welfare State"},
+              {"id": 60105, "title": "1.5 Basic Principles of an Islamic Welfare State"},
+              {"id": 60106, "title": "1.6 Objective Resolution"},
+              {"id": 60107, "title": "1.7 Islam and Modernism"},
+              {"id": 60108, "title": "1.8 Promotion of Peace, Tolerance and Co-existence in Islam"}
+            ]
+          },
+          {
+            "id": 602,
+            "title": "Political and Constitutional Development",
+            "exercises": [
+              {"id": 60201, "title": "2.1 Progress and Problems of Democracy in Pakistan"},
+              {"id": 60202, "title": "2.2 Role of Political Parties in Promoting Democracy in Pakistan"},
+              {"id": 60203, "title": "2.3 Salient Features of the Constitution 1956"},
+              {"id": 60204, "title": "2.4 Salient Features of the Constitution 1962"},
+              {"id": 60205, "title": "2.5 Reason and Impacts of Separation of East Pakistan"},
+              {"id": 60206, "title": "2.6 Salient Features of the Constitution 1973"},
+              {"id": 60207, "title": "2.7 Federal Structure under the Constitution of 1973"},
+              {"id": 60208, "title": "2.8 Structure of Provincial Governments"},
+              {"id": 60209, "title": "2.9 Role of Judiciary under the Constitution of 1973"},
+              {"id": 60210, "title": "2.10 Important Constitutional Amendments"}
+            ]
+          },
+          {
+            "id": 603,
+            "title": "Administrative System",
+            "exercises": [
+              {"id": 60301, "title": "3.1 Functions of Federation and Provinces in the light of the Constitution of 1973"},
+              {"id": 60302, "title": "3.2 Difference between Functions of Central and Provincial Government"},
+              {"id": 60303, "title": "3.3 Administrative Structure and Functions of Azad Jammu and Kashmir and Gilgit Baltistan"},
+              {"id": 60304, "title": "3.4 Nature of Relationship between Federal and Provincial Government"},
+              {"id": 60305, "title": "3.5 Relations between the Federation and the Provinces"},
+              {"id": 60306, "title": "3.6 Mutual Relationship between Provincial and Local Governments"},
+              {"id": 60307, "title": "3.7 Structure of different Levels of Local Governments"},
+              {"id": 60308, "title": "3.8 Functions of Local Governments at various Levels"},
+              {"id": 60309, "title": "3.9 Functions of the Metropolitan/Municipal Corporation"}
+            ]
+          },
+          {
+            "id": 604,
+            "title": "Human Rights",
+            "exercises": [
+              {"id": 60401, "title": "4.1 Concept of Human Rights"},
+              {"id": 60402, "title": "4.2 Islamic Concept of Human Rights"},
+              {"id": 60403, "title": "4.3 United Nations Universal Declaration of Human Rights (1948)"},
+              {"id": 60404, "title": "4.4 Nature of Basic Human Rights in Pakistan"},
+              {"id": 60405, "title": "4.5 Human Rights at National and International Level"}
+            ]
+          },
+          {
+            "id": 605,
+            "title": "Education System of Pakistan",
+            "exercises": [
+              {"id": 60501, "title": "5.1 Concept of Education"},
+              {"id": 60502, "title": "5.2 Goals of Education System of Pakistan"},
+              {"id": 60503, "title": "5.3 Main Features of the Educational System in Pakistan"},
+              {"id": 60504, "title": "5.4 Professional, Technical and Vocational Education in Pakistan"},
+              {"id": 60505, "title": "5.5 Suggestions for Resolving Educational Problems"}
+            ]
+          },
+          {
+            "id": 606,
+            "title": "Sports and Tourism",
+            "exercises": [
+              {"id": 60601, "title": "6.1 Importance of Sports in a Society"},
+              {"id": 60602, "title": "6.2 Profile of Pakistan in World's Sports"},
+              {"id": 60603, "title": "6.3 Indoor Games"},
+              {"id": 60604, "title": "6.4 Indigenous Games of Pakistan and other Games"},
+              {"id": 60605, "title": "6.5 Tourism as an Industry"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Physics",
+        "units": [
+          {
+            "id": 701,
+            "title": "Chapter 12: Electrostatics",
+            "exercises": [
+              {"id": 70101, "title": "12.1 Coulomb's Law"},
+              {"id": 70102, "title": "12.2 Fields of Force"},
+              {"id": 70103, "title": "12.3 Electric Field Lines"},
+              {"id": 70104, "title": "12.4 Applications of Electrostatics"},
+              {"id": 70105, "title": "12.5 Electric Flux"},
+              {"id": 70106, "title": "12.6 Electric Flux Through a Surface Enclosing a Charge"},
+              {"id": 70107, "title": "12.7 Gauss's Law"},
+              {"id": 70108, "title": "12.8 Applications of Gauss's Law"},
+              {"id": 70109, "title": "12.9 Electric Potential"},
+              {"id": 70110, "title": "12.10 Electron Volt"},
+              {"id": 70111, "title": "12.11 Electric and Gravitational Forces (A Comparison)"},
+              {"id": 70112, "title": "12.12 Charge on an Electron by Millikan's Method"},
+              {"id": 70113, "title": "12.13 Capacitor"},
+              {"id": 70114, "title": "12.14 Capacitance of a Parallel Plate Capacitor"},
+              {"id": 70115, "title": "12.15 Electric Polarization of Dielectrics"},
+              {"id": 70116, "title": "12.16 Energy Stored in a Capacitor"},
+              {"id": 70117, "title": "12.17 Charging and Discharging a Capacitor"}
+            ]
+          },
+          {
+            "id": 702,
+            "title": "Chapter 13: Current Electricity",
+            "exercises": [
+              {"id": 70201, "title": "13.1 Electric Current"},
+              {"id": 70202, "title": "13.2 Source of Current"},
+              {"id": 70203, "title": "13.3 Effects of Current"},
+              {"id": 70204, "title": "13.4 Ohm's Law"},
+              {"id": 70205, "title": "13.5 Resistivity and its Dependence upon Temperature"},
+              {"id": 70206, "title": "13.6 Colour Code for Carbon Resistances"},
+              {"id": 70207, "title": "13.7 Electrical Power and Power Dissipation in Resistors"},
+              {"id": 70208, "title": "13.8 Electromotive Force (EMF) and Potential Difference"},
+              {"id": 70209, "title": "13.9 Kirchhoff's Rules"},
+              {"id": 70210, "title": "13.10 Wheatstone Bridge"},
+              {"id": 70211, "title": "13.11 Potentiometer"}
+            ]
+          },
+          {
+            "id": 703,
+            "title": "Chapter 14: Electromagnetism",
+            "exercises": [
+              {"id": 70301, "title": "14.1 Magnetic Field Due to Current in a Long Straight Wire"},
+              {"id": 70302, "title": "14.2 Force on a Current Carrying Conductor in a Uniform Magnetic Field"},
+              {"id": 70303, "title": "14.3 Magnetic Flux and Flux Density"},
+              {"id": 70304, "title": "14.4 Ampere's Law and Determination of Flux Density B"},
+              {"id": 70305, "title": "14.5 Force on a Moving Charge in a Magnetic Field"},
+              {"id": 70306, "title": "14.6 Motion of Charged Particle in an Electric and Magnetic Field"},
+              {"id": 70307, "title": "14.7 Determination of e/m of an Electron"},
+              {"id": 70308, "title": "14.8 Cathode Ray Oscilloscope"},
+              {"id": 70309, "title": "14.9 Torque on a Current Carrying Coil"},
+              {"id": 70310, "title": "14.10 Galvanometer"},
+              {"id": 70311, "title": "14.11 Avo Meter - Multimeter"}
+            ]
+          },
+          {
+            "id": 704,
+            "title": "Chapter 15: Electromagnetic Induction",
+            "exercises": [
+              {"id": 70401, "title": "15.1 Induced EMF and Induced Current"},
+              {"id": 70402, "title": "15.2 Motional EMF"},
+              {"id": 70403, "title": "15.3 Faraday's Law and Induced EMF"},
+              {"id": 70404, "title": "15.4 Lenz's Law and Direction of Induced EMF"},
+              {"id": 70405, "title": "15.5 Mutual Induction"},
+              {"id": 70406, "title": "15.6 Self Induction"},
+              {"id": 70407, "title": "15.7 Energy Stored in an Inductor"},
+              {"id": 70408, "title": "15.8 Alternating Current Generator"},
+              {"id": 70409, "title": "15.9 D.C. Generator"},
+              {"id": 70410, "title": "15.10 Back Motor Effect in Generators"},
+              {"id": 70411, "title": "15.11 D.C. Motor"},
+              {"id": 70412, "title": "15.12 Back EMF Effect in Motors"},
+              {"id": 70413, "title": "15.13 Transformer"}
+            ]
+          },
+          {
+            "id": 705,
+            "title": "Chapter 16: Alternating Current",
+            "exercises": [
+              {"id": 70501, "title": "16.1 Alternating Current"},
+              {"id": 70502, "title": "16.2 A.C. Circuits"},
+              {"id": 70503, "title": "16.3 A.C. Through a Resistor"},
+              {"id": 70504, "title": "16.4 A.C. Through a Capacitor"},
+              {"id": 70505, "title": "16.5 A.C. Through an Inductor"},
+              {"id": 70506, "title": "16.6 Impedance"},
+              {"id": 70507, "title": "16.7 R - C and R - L Series Circuits"},
+              {"id": 70508, "title": "16.8 Power in A.C. Circuits"},
+              {"id": 70509, "title": "16.9 Series Resonance Circuit"},
+              {"id": 70510, "title": "16.10 Parallel Resonance Circuit"},
+              {"id": 70511, "title": "16.11 Three Phase A.C. Supply"},
+              {"id": 70512, "title": "16.12 Principle of Metal Detectors"},
+              {"id": 70513, "title": "16.13 Choke"},
+              {"id": 70514, "title": "16.14 Electromagnetic Waves"},
+              {"id": 70515, "title": "16.15 Principle of Generation, Transmission and Reception of Electromagnetic Waves"},
+              {"id": 70516, "title": "16.16 Modulation"}
+            ]
+          },
+          {
+            "id": 706,
+            "title": "Chapter 17: Physics of Solids",
+            "exercises": [
+              {"id": 70601, "title": "17.1 Classification of Solids"},
+              {"id": 70602, "title": "17.2 Mechanical Properties of Solids"},
+              {"id": 70603, "title": "17.3 Electrical Properties of Solids"},
+              {"id": 70604, "title": "17.4 Superconductors"},
+              {"id": 70605, "title": "17.5 Magnetic Properties of Solids"}
+            ]
+          },
+          {
+            "id": 707,
+            "title": "Chapter 18: Electronics",
+            "exercises": [
+              {"id": 70701, "title": "18.1 Brief Review of p-n Junction and its Characteristics"},
+              {"id": 70702, "title": "18.2 Rectification"},
+              {"id": 70703, "title": "18.3 Specially Designed p-n Junctions"},
+              {"id": 70704, "title": "18.4 Transistors"},
+              {"id": 70705, "title": "18.5 Transistor as an Amplifier"},
+              {"id": 70706, "title": "18.6 Transistor as a Switch"},
+              {"id": 70707, "title": "18.7 Operational Amplifier"},
+              {"id": 70708, "title": "18.8 OP - AMP as Inverting Amplifier"},
+              {"id": 70709, "title": "18.9 OP - AMP as Non-Inverting Amplifier"},
+              {"id": 70710, "title": "18.10 OP - AMP as a Comparator"},
+              {"id": 70711, "title": "18.11 Comparator as a Night Switch"},
+              {"id": 70712, "title": "18.12 Digital System"},
+              {"id": 70713, "title": "18.13 Fundamental Logic Gates"},
+              {"id": 70714, "title": "18.14 Other Logic Gates"},
+              {"id": 70715, "title": "18.15 Applications of Gates in Control Systems"}
+            ]
+          },
+          {
+            "id": 708,
+            "title": "Chapter 19: Dawn of Modern Physics",
+            "exercises": [
+              {"id": 70801, "title": "19.1 Relative Motion"},
+              {"id": 70802, "title": "19.2 Frames of Reference"},
+              {"id": 70803, "title": "19.3 Special Theory of Relativity"},
+              {"id": 70804, "title": "19.4 Black Body Radiation"},
+              {"id": 70805, "title": "19.5 Interaction of Electromagnetic Radiation with Matter"},
+              {"id": 70806, "title": "19.6 Annihilation of Matter"},
+              {"id": 70807, "title": "19.7 Wave Nature of Particles"},
+              {"id": 70808, "title": "19.8 Uncertainty Principle"}
+            ]
+          },
+          {
+            "id": 709,
+            "title": "Chapter 20: Atomic Spectra",
+            "exercises": [
+              {"id": 70901, "title": "20.1 Atomic Spectra"},
+              {"id": 70902, "title": "20.2 Bohr's Model of the Hydrogen Atom"},
+              {"id": 70903, "title": "20.3 Inner Shell Transitions and Characteristic X-Rays"},
+              {"id": 70904, "title": "20.4 Uncertainty within the Atom"},
+              {"id": 70905, "title": "20.5 Laser"}
+            ]
+          },
+          {
+            "id": 710,
+            "title": "Chapter 21: Nuclear Physics",
+            "exercises": [
+              {"id": 71001, "title": "21.1 Atomic Nucleus"},
+              {"id": 71002, "title": "21.2 Isotopes"},
+              {"id": 71003, "title": "21.3 Mass Defect and Binding Energy"},
+              {"id": 71004, "title": "21.4 Radioactivity"},
+              {"id": 71005, "title": "21.5 Half Life"},
+              {"id": 71006, "title": "21.6 Interaction of Radiation with Matter"},
+              {"id": 71007, "title": "21.7 Radiation Detectors"},
+              {"id": 71008, "title": "21.8 Nuclear Reactions"},
+              {"id": 71009, "title": "21.9 Nuclear Fission"},
+              {"id": 71010, "title": "21.10 Fusion Reaction"},
+              {"id": 71011, "title": "21.11 Radiation Exposure"},
+              {"id": 71012, "title": "21.12 Biological Effects of Radiation"},
+              {"id": 71013, "title": "21.13 Biological and Medical Uses of Radiation"},
+              {"id": 71014, "title": "21.14 Basic Forces of Nature"},
+              {"id": 71015, "title": "21.15 Building Blocks of Matter"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Quran Translation",
+        "units": [
+          {
+            "id": 801,
+            "title": "Part 1",
+            "exercises": [
+              {"id": 80101, "title": "سُوۡرَةُ النِّسَاء"},
+              {"id": 80102, "title": "سُوۡرَةُ المَائدة"},
+              {"id": 80103, "title": "سُوۡرَةُ النُّور"},
+              {"id": 80104, "title": "سُوۡرَةُ الاٴحزَاب"},
+              {"id": 80105, "title": "سُوۡرَةُ محَمَّد"},
+              {"id": 80106, "title": "سُوۡرَةُ الفَتْح"}
+            ]
+          },
+          {
+            "id": 802,
+            "title": "Part 2",
+            "exercises": [
+              {"id": 80201, "title": "سُوۡرَةُ الحُجرَات"},
+              {"id": 80202, "title": "سُوۡرَةُ الحَدید"},
+              {"id": 80203, "title": "سُوۡرَةُ المجَادلة"},
+              {"id": 80204, "title": "سُوۡرَةُ الحَشر"},
+              {"id": 80205, "title": "سُوۡرَةُ المُمتَحنَة"},
+              {"id": 80206, "title": "سُوۡرَةُ الصَّف"}
+            ]
+          },
+          {
+            "id": 803,
+            "title": "Part 3",
+            "exercises": [
+              {"id": 80301, "title": "سُوۡرَةُ الجُمُعَة"},
+              {"id": 80302, "title": "سُوۡرَةُ المنَافِقون"},
+              {"id": 80303, "title": "سُوۡرَةُ التّغَابُن"},
+              {"id": 80304, "title": "سُوۡرَةُ الطّلاَق"},
+              {"id": 80305, "title": "سُوۡرَةُ التّحْریم"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Urdu Lazmi",
+        "units": [
+          {
+            "id": 901,
+            "title": "نثر",
+            "exercises": [
+              {"id": 90101, "title": "مناقب عمر بن عبدالعزیزؓ"},
+              {"id": 90102, "title": "تشکیل پاکستان"},
+              {"id": 90103, "title": "نواب محسن الملک"},
+              {"id": 90104, "title": "محنت پسند خردمند"},
+              {"id": 90105, "title": "اکبری کی حماقتیں"},
+              {"id": 90106, "title": "پہلی فتح"},
+              {"id": 90107, "title": "دستک"},
+              {"id": 90108, "title": "ہوائی"},
+              {"id": 90109, "title": "مولانا ظفرعلی خاں"},
+              {"id": 90110, "title": "قرطبہ کا قاضی"},
+              {"id": 90111, "title": "مواصلات کے جدید ذرائع"},
+              {"id": 90112, "title": "مولوی نذیر احمد دہلوی"},
+              {"id": 90113, "title": "ایک سفر نامہ جو کہیں کا بھی نہیں ہے"},
+              {"id": 90114, "title": "ایوب عباسی"}
+            ]
+          },
+          {
+            "id": 902,
+            "title": "نظم",
+            "exercises": [
+              {"id": 90201, "title": "نظم نمبر 1: حمد"},
+              {"id": 90202, "title": "نظم نمبر 2: نعت"},
+              {"id": 90203, "title": "نظم نمبر 3: خدا سر سبز رکھے اس چمن کومہربان ہو کر"},
+              {"id": 90204, "title": "نظم نمبر 4: اسلامی مساوات"},
+              {"id": 90205, "title": "نظم نمبر 5: سُراغِ راہرو"},
+              {"id": 90206, "title": "نظم نمبر 6: آدمی"},
+              {"id": 90207, "title": "نظم نمبر 7: نوجوان سے خطاب"},
+              {"id": 90208, "title": "نظم نمبر 8: ایک کوہستانی سفر کے دوران میں"},
+              {"id": 90209, "title": "نظم نمبر 9: تغیر"},
+              {"id": 90210, "title": "نظم نمبر 10: قطعات"}
+            ]
+          },
+          {
+            "id": 903,
+            "title": "غزلیات",
+            "exercises": [
+              {"id": 90301, "title": "غزل نمبر 1،2: خواجہ میر درد"},
+              {"id": 90302, "title": "غزل نمبر 3،4: غلام مصطفی ہمدانی"},
+              {"id": 90303, "title": "غزل نمبر 5،6: مرزا غالب"},
+              {"id": 90304, "title": "غزل نمبر 7،8: علامہ اقبالؒ"},
+              {"id": 90305, "title": "غزل نمبر 9،10: ناصر کاظمی"},
+              {"id": 90306, "title": "غزل نمبر 11: فراق گور کھپوری"},
+              {"id": 90307, "title": "غزل نمبر 12: تابش دہلوی"}
+            ]
+          },
+          {
+            "id": 904,
+            "title": "قواعد و انشا",
+            "exercises": [
+              {"id": 90401, "title": "مطابقت اور حروف کا درست استعمال"},
+              {"id": 90402, "title": "رموز اوقاف"},
+              {"id": 90403, "title": "مصادر کا بطور امدادی افعال کا استعمال"},
+              {"id": 90404, "title": "خطوط"},
+              {"id": 90405, "title": "مضامین"},
+              {"id": 90406, "title": "آپ بیتی"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
